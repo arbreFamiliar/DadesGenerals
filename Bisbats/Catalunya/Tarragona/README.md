@@ -1,6 +1,10 @@
 # Dades del bisbat
 
-Les dades del Excel provenen del arxiu del arquebisbat de tarragona ahat.cat que afortunadament ha digitalitzat bastant contingut i es pot consultar des de la comoditat de casa. 
+Les dades del Excel provenen del arxiu del arquebisbat de tarragona [ahat.cat](http://www.ahat.cat/) que afortunadament ha digitalitzat bastant contingut i es pot consultar des de la comoditat de casa. L'imatge que hi ha a continuació es l'estat de la digitalització de cada localitat en funcio de 
+
+![digitalitzat](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/planol_arquebisbat_digitalitzacio_2018_sagramentals-min.png)
+
+# Com he organitzat l'informació
 
 He anat afegint tots els cognoms per facilitar la recerca dels familiars. En alguns casos, incloc el nom complet i més informació, això és perquè han despertat el meu interès o el d'algún col·laborador en la recerca de l'arbre genealògic. També he destacat en color verd els familiars confirmats per afegir-los al meu arbre.
 
