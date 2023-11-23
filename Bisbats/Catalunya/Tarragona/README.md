@@ -11,19 +11,19 @@ L'excel s'estructura de la següent manera:
 | -------- | ----------- | ------------- | ------ | --- | ---- | ---- | ------------ | ------------ | ----- | ------ |
 |          |             |               |        |     |      |      |              |              |       |        | 
 
-- Cognoms: Es la persona tingui nom o nomes els seus cognoms
-- Pagina real: es la pagina digital del llibre.
+- **Cognoms**: Es la persona tingui nom o nomes els seus cognoms
+- **Pagina real**: es la pagina digital del llibre.
   - ![pagina](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/pagina.PNG)
-- Pagina llibre: Es la pagina real del llibre, normalment la posaven cada 2 pagines digitals a la plana dreta.
+- **Pagina llibre**: Es la pagina real del llibre, normalment la posaven cada 2 pagines digitals a la plana dreta.
   - ![pagina real](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/paginar.PNG)
-- Llibre: T'indica el llibre on pots trobar el registre digitalitzat, i com a nota on es pot trobar per si calgues anar a consultarlo fisicament.- Any: Any en que es va inscriure el registre.
+- **Llibre**: T'indica el llibre on pots trobar el registre digitalitzat, i com a nota on es pot trobar per si calgues anar a consultarlo fisicament.- Any: Any en que es va inscriure el registre.
   - ![llibre](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/llibre.PNG)
-- Pare: Pare del mencionat, he intentat posar tots elscognoms en els casos que he trobat interes.
-- Mare: Mare del mencionat, he intentat posar tots elscognoms en els casos que he trobat interes.
-- Avis Paterns: Avis paterns, no sempre proporcionen els dos cognoms dels dos, pero he intentat posarlos.
-- Avis Materns: Avis materns, no sempre proporcionen els dos cognoms dels dos, pero he intentat posarlos.
-- Casat: Si te nota de casament poso tots els detalls llegibles, quan hi ha mes d'un matrimoni els separo amb 1er-, 2on, etc
-- Nascut: Data de naixament.
+- **Pare**: Pare del mencionat, he intentat posar tots elscognoms en els casos que he trobat interes.
+- **Mare**: Mare del mencionat, he intentat posar tots elscognoms en els casos que he trobat interes.
+- **Avis Paterns**: Avis paterns, no sempre proporcionen els dos cognoms dels dos, pero he intentat posarlos.
+- **Avis Materns**: Avis materns, no sempre proporcionen els dos cognoms dels dos, pero he intentat posarlos.
+- **Casat**: Si te nota de casament poso tots els detalls llegibles, quan hi ha mes d'un matrimoni els separo amb 1er-, 2on, etc
+- **Nascut**: Data de naixament.
 
 Hi ha ocasions en que el cognom o nom d'algun dels membres no es entendible, he mirat d'exeplificarlo amb ?, tambe cuan em sembla que entenc alguna cosa que no estic segur que posi allo realment.
 
