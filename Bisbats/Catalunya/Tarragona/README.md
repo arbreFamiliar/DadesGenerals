@@ -13,11 +13,11 @@ L'excel s'estructura de la següent manera:
 
 - Cognoms: Es la persona tingui nom o nomes els seus cognoms
 - Pagina real: es la pagina digital del llibre.
- - ![pagina](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/pagina.PNG)
+  - ![pagina](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/pagina.PNG)
 - Pagina llibre: Es la pagina real del llibre, normalment la posaven cada 2 pagines digitals a la plana dreta.
- - ![pagina real](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/paginar.PNG)
+  - ![pagina real](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/paginar.PNG)
 - Llibre: T'indica el llibre on pots trobar el registre digitalitzat, i com a nota on es pot trobar per si calgues anar a consultarlo fisicament.- Any: Any en que es va inscriure el registre.
- - ![llibre](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/llibre.PNG)
+  - ![llibre](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/llibre.PNG)
 - Pare: Pare del mencionat, he intentat posar tots elscognoms en els casos que he trobat interes.
 - Mare: Mare del mencionat, he intentat posar tots elscognoms en els casos que he trobat interes.
 - Avis Paterns: Avis paterns, no sempre proporcionen els dos cognoms dels dos, pero he intentat posarlos.
