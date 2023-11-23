@@ -12,9 +12,12 @@ L'excel s'estructura de la següent manera:
 |          |             |               |        |     |      |      |              |              |       |        | 
 
 - Cognoms: Es la persona tingui nom o nomes els seus cognoms
-- Pagina real: es la pagina digital del llibre
+- Pagina real: es la pagina digital del llibre.
+ - ![pagina](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/pagina.PNG)
 - Pagina llibre: Es la pagina real del llibre, normalment la posaven cada 2 pagines digitals a la plana dreta.
-- Llibre: T'indica el llibre on pots trobar el registre digitalitzat, i com a nota on es pot trobar per si calgues anar a consultarlo fisicament.- Any: Any en que es va inscriure el registre
+ - ![pagina real](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/paginar.PNG)
+- Llibre: T'indica el llibre on pots trobar el registre digitalitzat, i com a nota on es pot trobar per si calgues anar a consultarlo fisicament.- Any: Any en que es va inscriure el registre.
+ - ![llibre](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/llibre.PNG)
 - Pare: Pare del mencionat, he intentat posar tots elscognoms en els casos que he trobat interes.
 - Mare: Mare del mencionat, he intentat posar tots elscognoms en els casos que he trobat interes.
 - Avis Paterns: Avis paterns, no sempre proporcionen els dos cognoms dels dos, pero he intentat posarlos.
@@ -34,9 +37,9 @@ Per accedir directament als registres i mentres no cambio la URL pots fer-ho des
 
 Llibres revisats fins ara:
 - Arbeca
- -- [01/01/1867 21/06/1885](https://arxiuenlinia.ahat.cat/Document/0000019911)
- -- [26/06/1885 25/06/1893](https://arxiuenlinia.ahat.cat/Document/0000019886)
- -- [07/07/1893 26/02/1907](https://arxiuenlinia.ahat.cat/Document/0000019889)
- -- [10/03/1907 29/12/1912](https://arxiuenlinia.ahat.cat/Document/0000019883)
- -- [06/01/1913 05/08/1923](https://arxiuenlinia.ahat.cat/Document/0000019881)
- -- [12/08/1923 23/12/1935](https://arxiuenlinia.ahat.cat/Document/0000019877)
+ - [01/01/1867 21/06/1885](https://arxiuenlinia.ahat.cat/Document/0000019911)
+ - [26/06/1885 25/06/1893](https://arxiuenlinia.ahat.cat/Document/0000019886)
+ - [07/07/1893 26/02/1907](https://arxiuenlinia.ahat.cat/Document/0000019889)
+ - [10/03/1907 29/12/1912](https://arxiuenlinia.ahat.cat/Document/0000019883)
+ - [06/01/1913 05/08/1923](https://arxiuenlinia.ahat.cat/Document/0000019881)
+ - [12/08/1923 23/12/1935](https://arxiuenlinia.ahat.cat/Document/0000019877)
