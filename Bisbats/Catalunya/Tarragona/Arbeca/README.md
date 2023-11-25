@@ -2,7 +2,6 @@
 
 
 ## Combinacio de cognoms trobats fins ara
- - Cognoms
  - Sans Serra
  - Ribera Arqués
  - Josue Capdevila
