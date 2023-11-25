@@ -2053,6 +2053,32 @@
  - Lleonart Sans Joseph Francisco 
  - Lleonart Roset Rayminda Rosa Francisca
  - Boirach Deidi
+ - Sole Cots
+ - Vila Ballverd
+ - Guitart Sole
+ - Aldoma Sol
+ - Vilalta Esque
+ - Eijalde? Salsench?
+ - Baró Nicolau
+ - Farregut Sumalla Antonia Josefa Francisca
+ - Queralt rubi
+ - Aritseta Canto
+ - Argiles Llombart
+ - Lleonart Duch Josefa Antonia Rosa
+ - Moya Cervera
+ - Farregut Saura
+ - Sumalla Salla Francisco Joan
+ - Miquel Safont
+ - Solsona Esque
+ - Sole Alandi
+ - Soldevila Calbis
+ - Ribera Tornes
+ - Sans Lleonart Francisco Joseph Antoni
+ - Bosch Sumalla Dolores Rosa
+ - Canela Serrano Maria Josepa Francisca
+ - Monells Moneu
+ - Esque Balles
+ - Bergadá Albaveda
  - Pere Nadal
  - Perejuan Sumalla Dolores Teresa Jacoba
  - Pifarre Duch

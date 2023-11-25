@@ -2,7 +2,7 @@
 
 Les dades del Excel provenen del arxiu del arquebisbat de tarragona [ahat.cat](http://www.ahat.cat/) que afortunadament ha digitalitzat bastant contingut i es pot consultar des de la comoditat de casa. L'imatge que hi ha a continuació es l'estat de la digitalització de cada localitat en funcio de 
 
-![digitalitzat](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/planol_arquebisbat_digitalitzacio_2018_sagramentals-min.png)
+[Mapa del contingut digitalitzat](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/planol_arquebisbat_digitalitzacio_2018_sagramentals-min.png)
 
 # Com he organitzat l'informació
 
@@ -18,10 +18,11 @@ L'excel s'estructura de la següent manera:
 - **Cognoms**: Es la persona tingui nom o nomes els seus cognoms
 - **Pagina real**: es la pagina digital del llibre.
   - ![pagina](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/pagina.PNG)
-- **Pagina llibre**: Es la pagina real del llibre, normalment la posaven cada 2 pagines digitals a la plana dreta.
+- **Pagina llibre**: Es la pagina real del llibre, normalment la posaven cada 2 pagines digitals a la plana dreta. **Vaig deixar d'anotar aquesta dada per que no era de molta utilitat**
   - ![pagina real](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/paginar.PNG)
-- **Llibre**: T'indica el llibre on pots trobar el registre digitalitzat, i com a nota on es pot trobar per si calgues anar a consultarlo fisicament.- Any: Any en que es va inscriure el registre.
+- **Llibre**: T'indica el llibre on pots trobar el registre digitalitzat, i com a nota on es pot trobar per si calgues anar a consultarlo fisicament. 
   - ![llibre](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/guia/llibre.PNG)
+- **Any**: Any en que es va inscriure el registre.
 - **Pare**: Pare del mencionat, he intentat posar tots elscognoms en els casos que he trobat interes.
 - **Mare**: Mare del mencionat, he intentat posar tots elscognoms en els casos que he trobat interes.
 - **Avis Paterns**: Avis paterns, no sempre proporcionen els dos cognoms dels dos, pero he intentat posarlos.
@@ -41,6 +42,7 @@ Per accedir directament als registres i mentres no cambio la URL pots fer-ho des
 
 Llibres revisats fins ara:
 - Arbeca
+  - [20/02/1863 01/01/1867](https://arxiuenlinia.ahat.cat/Document/0000019910)
   - [01/01/1867 21/06/1885](https://arxiuenlinia.ahat.cat/Document/0000019911)
   - [26/06/1885 25/06/1893](https://arxiuenlinia.ahat.cat/Document/0000019886)
   - [07/07/1893 26/02/1907](https://arxiuenlinia.ahat.cat/Document/0000019889)
