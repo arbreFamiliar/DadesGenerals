@@ -2,1910 +2,2075 @@
 
 
 ## Combinacio de cognoms trobats fins ara
-
-- Sans Serra
-- Ribera Arqués
-- Josue Capdevila
-- Arrufat Canela
-- Mata Sanfeliu
-- Boldu Sans
-- Perello Majoral
-- Queralt Sans
-- Vidal Vidal
-- Sans Bellmunt
-- Esque Nadal
-- Queralt Aiguade
-- Sans Sumalla Antonio Jaime Jose
-- Sans Ingles Jaime Rosendo Luis
-- Miro Sanfeliu
-- Pons Farrau
-- Sans Cabre?
-- Bernat Timoneda
-- Mone Reñe
-- Roset Duch
-- Marsal Aldoma
-- Baró Perelló
-- Sans Meler
-- Pau Serra
-- Mesalles Torres
-- Aubach Ballesté
-- Tarros Ribera
-- Moya Ribera
-- Safont Sans
-- Sans Ribera
-- Ribera Martinez
-- Ingles Sans
-- Nadal Duch
-- Roset Saureu
-- Elies Vidal
-- Sans Pedrol
-- Solé Clavé
-- Mullerat Sans
-- Dalmau Bea
-- Masalles Vilanova
-- Reñe Boladeres
-- Ribera Gras
-- Gaya Elies
-- Vidal Sans
-- Sans Vidal Florian Manuel Jaime
-- Texido Bofarull
-- Segarra de Riu
-- Panades? Mestres
-- Esque Canela
-- Gorgues Sans
-- Bosch Camins
-- Moya Sans Juan Batiste Antonio Jose
-- Queralt Naves
-- Sans Goiyar??
-- Claramunt Tarrós
-- Sumalla Castella Ana Adela Josefa
-- Serra Fauria?
-- Sans Vidal Francisco Javier Jose
-- Ribera Boirach
-- Esque Roca
-- Monclús Vidal
-- Sumalla Farré Maria Del Pilar Francisca Jacoba
-- Timoneda Fallada
-- Aritseta Boladeres
-- Balleste Capdevila
-- Villar Sumalla Manuel Jose Jaime
-- Perelló Aritseta
-- Pernau Prats
-- Gras Palou
-- Salat Oms
-- Bellmunt Marea
-- Sumalla Vigata Dolores Marcela josefa
-- Perello Perera
-- Omells?? Bernat
-- Alsina Alemany
-- Queralt Capdevila
-- Torrelles Sans
-- Sans Motllo
-- Majoral Bellmunt
-- Perera Tillo
-- Balcells Ribera
-- Sans Pou
-- Tiudela Calvis
-- Sola Poch?
-- Moya Farre
-- Safont Roset
-- Sans Tillo
-- Monells Elies
-- Vidal Camins
-- Botonch Cabrol
-- Sumalla Queralt Jaime Sebastian Jose 
-- Sans Marti
-- Moya Muntala
-- Ingles Boirach
-- Pau Roset
-- Perejoan Sumalla Rosa Francisca Jacoba
-- Ill Boldú
-- Ciurana Sans
-- Sans Sans
-- Recasens Sans
-- Orrit Gorundella??
-- Pau Sans
-- Pontnou Miro
-- Motllo Sans
-- Capdevila Naves
-- Pernau Sans
-- Escalé Linea
-- Felip Naves
-- Gairoles Fallada
-- Ribera Cau
-- Sans Esque
-- Morlans Queralt
-- Queralt Ximenos
-- Roset Cots
-- Balague Naves
-- Gabriel Salvadó
-- Bonet Escale
-- Quintana Bove
-- Boldu Aubach
-- Tillo Duch
-- Oiyala??? Duch
-- Miret Monells
-- Vidal Coll
-- Pons Sans
-- Gaya Duch
-- Sans Clave
-- Incognito (Sans Moya + Canals)
-- Tarrós Duch
-- Serra Roset
-- Compte Tarros
-- Vidal Mesalles
-- Gras Naves
-- Domenech Sans
-- Aubach Naves Jose Carlos Luis
-- Domenech Balcells
-- Roset Soureu?
-- Sans Ciurana
-- Vila Safont
-- Balcells Cortada
-- Timoneda Pau
-- Vidal Duch
-- Aguadé Sans
-- Sans solé
-- Sans Bernat
-- Armengol Pau
-- Duch timoneda
-- Carulla Argiles
-- Pelegrí Perello
-- Quintana Miro
-- Cabau? Bellmunt
-- Safont Duch
-- Ill Sans
-- Moya Balague
-- Cullere Sans
-- Masot Abizanda?
-- Perello Bosch
-- Sans Sumalla Jose Maria Luis
-- Canela Aldoma joaquin ramon jose
-- Perello Oliach
-- Sumalla Canela Jose Ramon Luis
-- Perello Vidal
-- Sans Cantons
-- Capdevila Bellmunt
-- Moya Perera
-- Figueres Capdevila
-- Aiguadé Bellmunt
-- Argiles Culleré
-- Roset Miret
-- Safont Bosch
-- Perello Montero
-- Nadal o Reñe / Queyal?
-- Sole Vidal
-- Querol Queralt
-- Perera Bernat
-- Perera Sans
-- Salat Ribes
-- Ribera Ill
-- Vidal Safont
-- Moya Abad
-- Vidal Clara
-- Bernat Miret
-- Guasch Sans
-- Aubach Balleste
-- Ximenos Gras
-- Pifarre Marimon
-- Moya Canals
-- Monclus Vidal
-- Cabrol  Moya Jaime antonio jose
-- Sans Salbado
-- Ribera moya
-- Sans Canela
-- Gairoles Sans
-- Sans Vidal David Jesus Jose
-- Bonet Escalé
-- Naves Moyá
-- Monells Bisa
-- Pons Farráu
-- Gras Vidal
-- Bofarull Safont
-- Moya Perello
-- Garsavall Balcells
-- Sumallla Queralt
-- Sans Perera
-- Roset Esque
-- Sans Cornet
-- Pons Gene
-- Sans Martí
-- Targa Segarra
-- Baiget Ramon
-- Carulla Canals
-- Esque Duch
-- Moya Sans Josep Maria Luis
-- Sumalla Vigata Rosa i Maria
-- Pau Montero
-- Sans Gras
-- Duch Cortecans
-- Culleré Sole
-- Rubinat Sans
-- Sans Perello
-- Timoneda Ribera
-- Boladeras Ribera
-- Bellmunt Alsina
-- Calafell Sans
-- Sans Vidal Jose ramon jaime
-- Elies Sans
-- Serrat Colomina
-- Pau Falco
-- Sumalla Farré Jose Maria Luis
-- Montero Balcells
-- Marti Prats
-- Naves Farre
-- Salat Escale
-- Vidal Teixido
-- Torres Moya
-- Perello timoneda Jose Ramon Jaime
-- Safont Boirach
-- Querolt Capdevila
-- Sardá Naves
-- Sabadó Esque
-- Satorra Roset
-- Armengol Ciurana
-- Aubach Naves Dolores Teresa Jacoba
-- Sans Vilaro
-- Queralt Ribes
-- Sans Clavé
-- Rey Coll
-- Vidal Miret
-- Robinat Sans
-- Vidal Quintana
-- Domenech  Balcells
-- Roset Safont
-- Perera Fallada
-- Quintana Tillo
-- Gaya Vallverdú
-- Pach Bové
-- Vidal Tarrós
-- Sans Pont
-- Marti Tillo
-- Sans Roset
-- Ribera Hill
-- Sans Graells
-- Vidal Masalles
-- Boladeres Reñe
-- PereJoan Sumalla Raimunda Monserrat Jacoba
-- Roset i Cols
-- Sans Pau
-- Perera Gras
-- Ibars Segués
-- Timoneda Bernat
-- vidal gil
-- Gaya Sanfeliu
-- Queralt Masgoret
-- Alzina Monne
-- Fallada Querolt
-- Pons Cantons
-- Texido Montañola
-- Perera Perera
-- Sans sumalla Jose Antonio Jaime
-- Ribera Teixido
-- Sans Moya
-- Gotsens Quintana
-- Sans Vidal Antonia Josefa Jacoba
-- Sans Cabre
-- Florejachs Reñe
-- Perello Serra
-- Carulla Argeles
-- Rubi Martinez
-- Balcells Tarrós
-- Cots Sans
-- Vila de riu
-- Boirach Roset
-- Pujol Fallada
-- Tudela Calvis
-- Gayroles Fallada
-- Massot Albiranda
-- Aiguade Bellmunt
-- Ribera Torres
-- Dalmau Tacies
-- Ribes Busquets
-- Vidal Homs
-- Comenje Monelus
-- Figueres Sans
-- Salat reñe
-- Rullo??  Vila
-- Moya Carne?
-- Perello Tillo
-- Torné Capdevila
-- Perello Teixido
-- Pau Vidal
-- Torres Serra
-- Sans sole
-- Sans Vidal Maria Antonia Jacoba
-- Aixola tarros
-- Domingo Batista
-- Bellmunt Berengue
-- Timoneda Balleste Matilde Magdalena Maria
-- Nadal Esque
-- Bofarull Galito
-- Salla Roset
-- Argiles Cullaré
-- Aiguade Sans
-- Cots Segarra
-- Aubach Naves Maria Josepa Rosa
-- Roset Saureu??
-- Queral Duch
-- Gine Potau
-- Fallada Gairoles
-- Miro Esque
-- Sumalla Farre Prudencio Buenaventura Jaime
-- Sans Josa
-- Baro Perello
-- Ribes Sans
-- Sole Clave
-- Felip Guasch
-- Ximenos Mullerot
-- Motllo Duch
-- Moyá Abad
-- Sumalla Canela Juana assuncion Josefa
-- Gotsens? Nadal
-- Marti Sans
-- Ribera Boirach H
-- Gavernet Fallada
-- Perello sanfeliu
-- sans moyá
-- arbos sans
-- Balcells pujol
-- Perello Timoneda Montserrat Francisca Jacoba
-- Vidal Moyá
-- Huget pons
-- De Riu Guarch
-- Roure Clavé
-- torrellas sans
-- Camins Naves
-- Pons Sumalla Juan Manuel Jaime
-- Vidal Ximenos
-- Capdevila Sans
-- Ribes cortecans
-- Ribera Teixidó
-- Roset Elias ?
-- Balsells Cortada
-- Quintana ¿Gausar?
-- Canela Palau
-- ¿Bufau?  Sans
-- sans Canals
-- Sanfeliu perera
-- Rey Ribera
-- Bernat Duch
-- Canela Aldoma Sofia Juana Maria
-- Escale Sinca
-- baro sans
-- Masot Abiranda
-- Timoneda Tillo
-- Queralt Gimenos?
-- Perera Marimon
-- Janavall? Balcells
-- Bellmunt Gaya
-- Alzina moné
-- Roset cols
-- Perello  Bosch
-- Esque ribera
-- Perello  oliach
-- Prous? Mata
-- Sans Ingles Alberto Jaime Jose
-- Aixalá Mansana?
-- Quintana Argiles
-- Ximenos Mullerat
-- Dalmau  tacies?
-- Lleonart Motlló
-- Bellmunt Berengué
-- Motllo sole
-- Sumalla Queralt Raimunda Teresa Maria
-- Tillo Timoneda Bonaventura Dolores Jacoba
-- Gracia Sumalla Juan Manuel Jaime
-- Marca?  Tortecada
-- Gaya Bonell
-- Sans sumalla Julio Pedro Jaime
-- Aldoma Ribera
-- Flojachs?? reñe
-- Duch nadal
-- Inglés Boirach
-- Pons Gené
-- Perera Sams
-- Cantons  canfi?
-- Torne capdevila
-- satorra moret
-- Duch capell
-- Bellmunt Vidal
-- Moya Recasens
-- Gayroles? Fallada
-- Rodón Tillo
-- Ribes Balague
-- Montero Ribera
-- Perello Sans
-- Felip Guasch?
-- Sans Escalé
-- Marimon pons
-- Bellmunt Alzina
-- Argilés Culleré
-- Sans Tilló
-- Nadal Quexal?
-- Argilés Xaumar?
-- Sumalla Farré Rosa Raimunda Jacoba
-- Boladeras Reñe
-- Cabrol Moya Antonia Consuelo Maria
-- Vidal Monells
-- Queralt torrents
-- Moyá Camins Teresa josefa Maria
-- Queralt Queralt
-- Sans Moret
-- Bellmunt Nadal
-- Sumalla vigatá Rosa Jacoba 
-- Rubí Martinez
-- Ibars Legués
-- Sumalla Vigata Antonio Jaime
-- Capdevila Arbos
-- Queralt Navés
-- Torné Borjes
-- Sanfeliu fallada
-- Felip pont
-- Vidal Oms
-- Salat Duch
-- Corbella Sans
-- Moyá  Miró
-- Vall Ingles
-- Elias Marca
-- Quintana Bové
-- Timoneda Balleste Antonio Jaime Jose
-- Queralt Duch
-- Perello timoneda Maria Francisca Jacoba
-- Gotsens? Quintana
-- Gaunoles sans
-- Vidal Rui
-- Regordosa? Miro
-- Baró Perello
-- Baget Ramon
-- latorra Cols
-- Camins Queralt
-- Naves Clavé
-- Esqué Ribera
-- Canela Aldomà Lluis Jose Jaime
-- Cullera sole
-- Perera i perera
-- Esque motllo Francisca Maria Josefa
-- Vall Sans
-- Moya Boirach
-- Oliach aritseta
-- jose de l. pedro blanch
-- Aixala Mansana
-- Baladeras Balague
-- Gavarro Segues
-- Vidal Massalles
-- Sanfeliu Perello
-- Moya Solsona
-- Pelegri Roset
-- Escale Tillo
-- Ponnou miro
-- Sans vidal Josefa Maria Jacoba
-- llevant duran
-- Safont Inglés
-- Perera Gotsens
-- lleonart vidal
-- Segarra Esqué
-- Timoneda Pou
-- Alsina Monné
-- Perelló Serra
-- Galceran Sans
-- Ruera Marca
-- Artós Sans
-- Monfa Vidal
-- Miret Sans
-- Sans Merola
-- Perelló Oliach
-- Sans ingles Catalina Maria Josefa
-- Culleré Perera
-- Sumalla Canela Rosa Francisca Maria
-- Lleonart Sans
-- Sans Gayroles
-- Serra Fauria
-- Roig Cerveto
-- Riu Guasch
-- Sans sumalla Rosa Agustina Jacoba
-- Sumalla Farré Bonaventura Jose Jaime
-- Sans cullere
-- Miquel Gotsens
-- Arrufat Sans
-- Miquel Cantons
-- Gort? Porta
-- Pifarre Badia
-- Quintana Gausart
-- Miro Vila
-- Sans Perelló
-- Florejades? Reñe
-- Monne reñe
-- Sola Poch
-- Texido Gil
-- Argilés Xammar
-- Esque cullere
-- Gracia Sumalla Magdalena Josefa Jacoba
-- Sans Escale
-- Boldu Perello
-- Cases Graells
-- Quintana Naves
-- Montero Gañet
-- Canela Aldoma Francisco Luis Jaime
-- Aixala Balcells
-- Capdevila Arbós
-- Pau Bardia
-- Vives Berengué
-- Moya Camins Juan jose jaime
-- Elias Marea
-- Ribera Fallada
-- Bosch Monells
-- Fallada Queralt
-- Berengue Bellmunt
-- Torne Borjas
-- Salla Vidal
-- Cabrol  Moyá Rosa magdalena luisa
-- Bibes Balague
-- Elias Vallverdu
-- Ciurana Tillo
-- Cantons Canti
-- Naves Ciurana
-- Monne capdevila
-- Roset Esqué
-- Argiles Cullere
-- Sans Miret
-- Boyrach Roset
-- Felipe pons
-- Gabarró Segues
-- Tapiol Niubó
-- Gotsens nadal
-- Sumalla Castella Providencia josefa luisa
-- Lleonart Motllo
-- Vidal Capdevila
-- Sans Lleonart
-- Sumalla Vigatá
-- Perello Timoneda Paulina francisca jacoba
-- Richart Aparici
-- Companys Sanfeliu
-- Sans Motlló
-- Martin Roca
-- Perera Duch
-- Sans Pedrós
-- Reñe Nadal
-- Gotzens Quintana
-- Balcells Moya
-- Boladeres teixido
-- De Gracia Sumalla Fermin Francisco Jaime
-- Perera Perello
-- Esque Motllo Ramon Olegario Ambrosio
-- Moya Espinet
-- Vilalta Cullere
-- Moya Solsone
-- Pujol teule
-- Sans Gairoles
-- Bosch Sans
-- Carne Sans
-- Lleonart Bonell
-- Perera tallada
-- Monells Cortada
-- Elias? Andreu
-- Motllo Tacies
-- Bosch Pernau
-- Safont Balague
-- Monells Serra
-- Garret Gil
-- Satorra Cots
-- Gotsens Vidal
-- Tarros Rodon
-- Duch Vila
-- Texido Capdevila
-- Fallada Vidal
-- sans gavernet
-- Balcells Cabrol Jaime Jose Antonio
-- Cots Queralt
-- Duch Perera
-- Cullere Huget
-- Paisa Garvet
-- Lleonart Canals
-- Sans Balcells
-- Bosch Capdevila
-- Aritsesa Marsal
-- Sans Querol
-- Miquel Tillo
-- Roset Sans
-- Clave Bosch
-- Cullere Perera
-- Carrera Aubach
-- Incognito Farragut
-- Vidal Rubi
-- Miquel  Cantons
-- Capdevila Esque
-- Pau Badia
-- Duch Regue
-- Franquet Abat
-- Tillo Perello
-- Canals Guash
-- Duch Bellmunt
-- Queralt Torrent
-- Tillo Drudes
-- Miret Merola
-- Verdes Garsavall
-- Sans Bové
-- Perera Cullere
-- Cullere Sole
-- Gaya Vallverdu
-- Cullere Marti
-- Rodon Tillo
-- Ribes Teixido
-- Mullo Vila
-- Pejoan Sumalla Teresa Maria
-- Montane Sobrepere
-- Boldu Bernat
-- Sans Balaguer
-- Cabrol Moya Benita Josefa Teresa
-- Ribera Cervera
-- Sans Coll
-- Quintana Sans
-- Selma Pujol Dolores Teresa
-- Selma Pujol Antonio Jaime
-- Fallada Gayroles
-- Gabarro Segues
-- Elias Ribera Jose Ramon Jaime
-- Pasto Borras
-- PADRINOS Sans Aubach
-- Bellmunt Sans
-- Pedros baget
-- Sans Vila
-- Cabrol Ibars
-- Florejades Reñe
-- Roset Robinat
-- Sans Comes
-- Canela Aldoma Rosa Francisca Teresa
-- Teixido Capdevila
-- Safont Ingles
-- Pach Bove
-- Moncusi Barrufet
-- Elias Nadal
-- Fallada Segura
-- Pelegri Perello
-- Quintana Andreu
-- Catala Guasch
-- Suñe Sola
-- Quintana Lleonart
-- Pons Sumalla Magdalena Antonia teresa
-- Chimenos Mullerat
-- de Gracia Sumalla Dolores Rosa Jacoba
-- Esque Urzay
-- Segarra Esque
-- Sumalla Sans Ramona Manuela Jacoba
-- Quintana Pares
-- Pau Verdes
-- Queralt Masdoret
-- Vidal Salla
-- Timoneda Balleste Dolores Raimunda Francisca
-- Cantons Cami
-- Tillo Fallada
-- Sans Ingles Pedro Jose Jaime
-- Segues Sans
-- Cabrol Moya Pablo Jaime
-- Gaya Roig
-- Sumalla Canela Maria Raimunda Jacoba
-- Pique Sans
-- Moya Camins Francisco Juan Jaime
-- Lleonart Duran
-- Monells Vidal
-- Gayoles Sans
-- Gayroles Codina
-- Moya Boyrach
-- Nadal Caixal
-- Perello Timoneda Antonio Jose Jaime
-- Ribera Elias Concepcion jacoba
-- Ribera Elias Raimunda Josefa
-- Ribera Quixa
-- Torne Borges
-- Miret Bernat
-- Nos Cots
-- Balcells Cabrol
-- Astor Montserrat
-- Balague Sans
-- Esque Motllo Cecilia Pilar Jacoba
-- Serra Andreu
-- Vilalta Montero
-- Moya Carne
-- Bernat Argiles
-- Cortada Vilalta
-- Gabernet Fallada
-- Duuc Capell
-- Serra Sonalo?
-- Buñales Perez
-- Pujol Taulo
-- Tarros Corbella
-- Boria Torres
-- Gavernet Sans
-- Vidal Chimenos
-- Vidal  Sans
-- Camins Gausart
-- Navarro Orus
-- Sans Querolt
-- Selma Pujol
-- Quintana Duch
-- Argiles Xammar
-- Roset Boyrach
-- Tapiol Niubo
-- SansVilaro
-- Ribes Cortacans
-- Sans Pedros
-- Elias Ribera Antonio Amadeo Jaime
-- Sans Ingles Jose Antonio Francisco
-- Canela Aldoma Ramon Jose Jaime
-- Moya Miro
-- Naves Quintana
-- Carreras Sole
-- Abat Majoral
-- Sumalla Farre Maria Antonia Jacoba
-- Sans Miquel
-- Duch Motllo
-- Ribes Duch
-- Roset Elias
-- Sumalla Queralt Rosa Raimunda Jacoba
-- Sans Balague
-- Gayroles Sans
-- Timoneda Balleste Monserrat Antonia Jacoba
-- Roset Miro
-- Serra Massana
-- Ribera Sauch?
-- Bullo Vila
-- Naves Farré
-- Monells Riu
-- Queralt Chimenos
-- Mollo Sans
-- Ibars Segues
-- Vidal Moya
-- Pejoran Sumalla Antonio Lorenzo Luis
-- Alsina Monne
-- Berrian Ribera
-- Marca Francisca
-- Aritzeta Marsal
-- Duch Visa
-- Sans de riu
-- Pages Serret
-- Bove Pifarre
-- Perera Bellmunt
-- Sans Massot
-- Sans Satorra
-- Sole Pont
-- Bellmunt Capdevila
-- Serra Cots
-- Vidal Balague
-- Queralt Alzina
-- Escale Coll
-- Clave Florejades
-- Sans Vidal Teresa Ramona Francisca
-- Bernat Prats
-- Boladeres Roset
-- Sans Baro
-- Duch Sans
-- Abad Fallada
-- Ribes Vidal
-- Serra Sans
-- Sans Boladeras
-- Ribera Perera
-- Segarra Sole
-- Esque Quintana
-- Alsina Sans
-- Moya Balcells
-- Sans Sanfeliu
-- Cots Ribes
-- Cots Naves
-- Bernat Esque
-- Mas Alberich
-- Ribera Marti
-- Naves Escale
-- Ibars Moya
-- Cortacans Tarros
-- Vidal Dalmau
-- Sans Duch
-- Badia Vila
-- Moya Safon
-- Gras sole
-- Marca Marti
-- Texido Ribera
-- Roset Vilalta
-- Recasens Vidal
-- Pont Safont
-- Aritseta Capdevila
-- Canela Berga
-- Cullere gotsens
-- Naves Moya
-- Bosch Berengué
-- Bernat Moya
-- Montero Pisalella?
-- Sans Gabernet
-- Tillo Vila
-- Naves Merola
-- Sans Barbara
-- Capdevila Felip
-- Perello Aldoma
-- De riu Esque
-- Sanfeliu Carnice
-- Majoral Espina
-- Perera Saimeu?
-- Duch Ribera
-- Cullere Moya
-- Garsavall Baella
-- Merola Moya
-- Fallada Rey
-- Cornuella Frabcesh
-- Naves Ribes
-- Capdevila Pernau
-- Reñe Serra 
-- Querol Sole
-- Arque  moya
-- Canals Recasens
-- Sole Naves
-- Gotsens Niubo
-- Recasens Gispert
-- Fallada Carrera
-- Cabau Reñe
-- Arrufat Vidal
-- Sans Naves
-- Vidal Mota
-- Ribes Jordana
-- Perello Morera
-- Vives Lleonart
-- Moya Sans Miguel Jose Francisco
-- Garsavall Sans
-- Tacies Sans
-- Ribera Ribes Jose Pedro Francisco
-- Alzina Vidal
-- Duch Naves
-- Clavé Bosch
-- Sumalla Monné Dolores Ramona  Francisca
-- Tacies Cabrol
-- Sans Gayoles
-- Sanfeliu Querol
-- Vidal Querol
-- Moya Duch Domingo Esteban Francisco
-- Ripoll Carrera
-- Duch Cots
-- Comes Ribera
-- Pifarre Bellmunt
-- Sumalla Pau Geronimo Ramon Antonio
-- llover Fornell
-- Marti Bofarull
-- Pifarre Gras
-- Sans Capdevila
-- Moya Corbella
-- Riu Aubach
-- Meler Sumalla Rosa Antonia Josefa
-- Sans Vidal Raimunda Brigida Josefa
-- Sans Teixido
-- Balcells Sans
-- Boldu Fallada
-- Bosch Ginebrosa
-- Farragut Vidal
-- Carreras Sans
-- Aubach Sans
-- Cortada Florejades
-- Elias Sans
-- Moya Mata
-- Sans Queralt
-- Cullere Balleste
-- Vidal Ribes
-- Goma Farre
-- Boladeras miret
-- Miro Sans
-- Esque Lleonart Ramon Jose Antonio
-- Aldoma Elias
-- Ciurana Perello
-- Baget Jaques
-- Gras Pifarre
-- Poch Balcells
-- Pau Vilalta
-- Bernat Sans
-- Aubach Ribera Gertrudis Teresa Antonia
-- Capdevila Boyrach
-- Serra Naves
-- Esque Motllo
-- Aiguade Abad
-- gaya Coll
-- Bosch Berengue
-- Bellmunt Pont
-- sans comas
-- saureu sans
-- Carnice Salat
-- Robinat Balague
-- Pont Querolt
-- Moya Rodon
-- Fallada Lleonart Teresa Maria Josefa 
-- Carne Bergada
-- Cornudella Francesch
-- Bautista Carbonell
-- Segarra Moya
-- Elias Andreu
-- Vidal Canela
-- Bernau Esque
-- Pedros Esque
-- Bosch Queralt
-- Moya Sans Pablo Bernardo Jose
-- Sans Rius
-- Canals Guasch
-- Esque Pau
-- Saureu Malet
-- Queralt pedros
-- Querol Sans
-- Queralt Alsina
-- Roset Nadal
-- Oms pau
-- Segues Gras
-- Segarra Pau
-- Mollo Tacies
-- Selma Capdevila
-- Esque Puig
-- Balleste Timoneda soledad raimunda josefa
-- Motllo Mir
-- Sans Bartolo
-- Naves Argiles
-- Alzina Sans
-- Cortecans Abrado
-- Sans Riu
-- Sans Vidal Ramona Antonia Josefa
-- Betrian Ribera
-- Elias Regodosa
-- Safont Naves
-- Bellmunt Boldu
-- Rubi Bosch
-- perera saureu
-- Moya Sans
-- Rey Naves
-- Elias Bosch
-- Sans Salla
-- Teixido Marsal
-- Abat Fallada
-- Lleonaart Bonell
-- Ingles Serra
-- Timoneda Cantons Raimunda Josefa Antonia
-- Pons vila
-- Farre Canals
-- Recasens Farregut
-- Coral Cabres
-- Aiguade Duch
-- Sans Soldevila
-- Esque Lleonart Cecilia Josepa Francisca
-- Bofarull Sans
-- Sans Barbera
-- Masalles Rey
-- Relbileriu ?? Estevan
-- Coll Vallverdu
-- Cortecans Tarros
-- Vives Lleonart Jose Antonio Francisco
-- Perera Baró
-- Ribera Mirot
-- Moya Masalles
-- Moya Aritseta
-- Sans Rubi
-- Vidal Francesch
-- Boldu Ribera
-- Pau Argiles
-- Cabrot Ibars
-- Saureu Naves
-- Potensa? Naves
-- Aubach Ribera Jose Alejo Francisco
-- Pifarre Sans
-- Rius Onofre
-- Comenge Serra
-- Ribera Martin
-- Lleonart Bonell Soledad Rosa Francisca
-- Meler Bosch
-- Vidal Tarros
-- Naves Mosich
-- Carnice Fallada
-- Corbella Moya
-- Boladeras Roset
-- Quintana Lleonart Jose Juan Francisco
-- Fallada Lleonart Rafael Jaime Francisco
-- Bofarull Odena
-- Balcells Bota
-- Sans Farre
-- Balleste Timoneda Jose Francisco Antonio
-- Moya Vidal
-- Boldu Solsona
-- Escale Safont
-- Elias Ribera
-- Lleonart Sans Miguel Ramon  Jose
-- Alsina Vidal
-- Queralt Pau
-- Odena Recasens
-- Sans Tarros
-- Boladeras Ponts
-- Aixala Arque
-- Farregut Vidal
-- Valcells Pujol
-- Riberas Ribes
-- Riu Esque
-- Moya Safont
-- Falladas Carrera
-- Sans Vidal Dolores Rosa Josefa 
-- Quintana gansart??
-- Perera Miquel
-- Tillo Timoneda Rose Teresa Josefa
-- Bosch Ginebrosa?
-- Bellmunt Solsona
-- blanch Sans
-- Sans Bove
-- sola naves
-- Lleonart Bonell Francisco Miguel Luis
-- Ribera timoneda Gregorio Jose naeido?
-- Ponnou  Miro
-- Gine Vila
-- Rivera Martin
-- Pelegri  Perello
-- Berengue Solsona
-- Querolt Pau
-- Vetrain Ribera
-- Moya  Perera
-- Mota Moya
-- Arquer  Moya
-- Vidal Queralt
-- Rullo Vila
-- Motllo  Tacies
-- Bofarull  Sans
-- Coral Cabases
-- Ill Abat
-- De Riu Berengue
-- Sans Farreny
-- Mora Costa
-- Canela Berga Bonaventura Concepcio Josefa
-- Rubio Sans
-- Bellmunt Esque
-- Sanfeliu Querolt
-- Balcells Rota
-- Fallada Lleonart Paulina Maria Josepa
-- Viñals Guana?
-- Bosch Vilella
-- Cortecans Tarrros
-- Tillo Timoneda Jaime antonio jose
-- Aubach Ribera Alejo jose luis
-- Quintana Lleonart Consuelo Antonia Josefa
-- Cullere Bofarull
-- Robira Gauch?
-- Verdes Carreras
-- Quinatana Perez
-- Lleonart Sans Maria Juana Josefa
-- Ribera Elias
-- Serra Mansana
-- vives lleonart Concepcion Magdalena Josefa
-- Balleste Timoneda Felicites Antonia Josefa
-- Rey Gil
-- Gornudella Fransesch
-- Lleonart Bonell Carmen Bosch  Josefa
-- Cantons Vila
-- Ribera timoneda Maria Josefa Antonia
-- Sole Aubach
-- Sans Vidal Guadalupe Ramona Josefa
-- Boladeras Teixido
-- Timoneda Cantons Sense Nom
-- Lleonart Vidal Teresa Maria
-- Monfarre Salat
-- Mata Moya
-- Verdes Garsaball
-- Bosch Vilalta
-- Pau Robinat
-- Cantons Nabau
-- Carnice Lleonart Jose Juan Pedro
-- Boyo Masalles
-- Ribera Ribes Esteban Miguel Pedro
-- Moya Aritzetaa
-- Munfa Nadal
-- Riu Berengue
-- Marimon Pont
-- Garret Pujol
-- Poch Bove
-- Naves Sumalla Daniel Ramon Pedro
-- Netrian Ribera
-- Tarros Perera
-- Segura Sole
-- Robinat Perello
-- Perello Perello
-- Esque Escola
-- Nadal Quixal
-- Figueras sans
-- Sales Gayas
-- Ribera Gauch
-- Coll Aldoma
-- Ros Badia
-- Perello Timoneda
-- Lleonart Sans Miguel Francisco Pedro
-- Corbella Cots
-- Hill Abat
-- Moya Pernau
-- Alamon Moya
-- Quintana Lleonart Pio Jose Pedro
-- Gracia Sumalla Encarnacion Francisca Maria
-- Aritseta Marsal
-- Abad Mayoral
-- Aubach Ribera Dolores Antonia Tecla
-- Aubach Elies
-- Montane Salat
-- Fallada Lleonart Rafael Francisco Pedro
-- Bosch Perera
-- Riu Bellmunt
-- Vinals Guana
-- Torne Borjes
-- Solans Viladrich
-- Tillo Timoneda Dolores Manuela Tecla
-- Cullere Huguet
-- Lleonart Bonell Gerardo Juan Pedro
-- Balleste Timoneda Dolores Antonia Tecla 
-- Lleonart Motllo Antonio Jose Pedro
-- Teixido Gil
-- Pejoan Sumalla Francisco Sebastian Pedro
-- Teixido Montero
-- Timoneda Cantons Domingo Pablo Pedro
-- Felip Sans
-- Quintana Peres
-- Lleonart Vidal Santiago Ramon Ambrosio
-- Mateu Grabiel
-- Moya Gotsens
-- Lleonart Canals Maria Francisca Teresa 
-- Lleonart Sans Pablo Jose Jaime 
-- Muntane Salat
-- Segarra Sans
-- Perera Clota
-- Ballo Roca
-- Quintana Lleonart Juan Miguel Jaime
-- Sans Vidal Francisco Jose Jaime
-- Pejoan Sumalla Maria Sebastiana Teresa
-- Palaci Sanchez
-- Santos Duch
-- Avrera Pach
-- Balleste Timoneda Sense Nom
-- Florejades Vila
-- Naves Safont
-- Rubi Miro
-- Miret Puig
-- Naves Verdes
-- Farregut Cantons
-- Naves Bosch
-- Naves Perera
-- Darnell Reñe
-- Berengue Fallada
-- Texido Queralt
-- Moya Duch Rosa Raimunda Francisca
-- Mullerat Soldevila
-- Jugla Timoneda
-- Carascosa Sans
-- Oms Sans
-- Sans Vidal Dolores Francisca Josefa
-- Ciurana Bobe
-- Nadal Boldu
-- Ribera Cortes
-- Claramunt Florexachs
-- Cabre Balcells
-- Serra Marti
-- Quintana Vidal
-- Cortecans Brado
-- Balcells Roca
-- Sans Pifarre
-- Sans Compte
-- Duch Balleste
-- Aiguade Sanfeliu
-- Balague Masso
-- Moya Duch Antonio Francisco Ambrosio
-- Sans Segarra
-- Sumalla lleonart Teresa Antonia Francisca
-- Bellmunt Salla
-- Pau Reñe
-- Puigdengoles Lleonart Trinidad Serafina Josefa
-- Ribera Queralt
-- Pernau Naves
-- Montero Estadella
-- Caixal Canela
-- Motllo Capdevila
-- Roset Naves
-- Oliach Roset
-- Capdevila Perera
-- Cantons Boneu
-- Maria Marti
-- Canals Fontoba
-- Cervera Fort
-- Moya Duch Jose Ramon Francisco
-- Esque Llombart
-- Lleonart Duch Domingo Francisco Ambrisio
-- Sumalla Torres Maria del pilar (??) Francisca
-- Pedros Masso
-- Moya Riera
-- Balleste Timoneda Francisca Teresa Maria
-- de Riu Aubach
-- Valls Vidal
-- Naves Borich?
-- Bardia Vila
-- Martorell Segarra
-- Domingo Robinat
-- Sans Boldu
-- Balcells Robinat
-- Canti Salla
-- Bernat Ribera
-- Sans Majoral
-- Camins Moya
-- Gayroles Farragut
-- Guach Cullere
-- Tarros Gayroles
-- Guach Caniz?
-- Baget Jaquex??
-- Fallada Perera
-- Queral Moya
-- Boladeres Pont
-- Perello Quintana
-- Sugrañes? Ribera
-- Canals Sans
-- Teixido Queralt
-- Sans Muntala
-- Esque Florejades
-- Bonet Tillo
-- Esque Pont
-- vives lleonart Ramon Jose Francisco
-- Pont Queralt
-- Aldoma Gayroles
-- Puigdengoles Llombart
-- Carreras "Boldu" Sans
-- Sanfeliu Boldu
-- Perera Teixido
-- Ribera Perello
-- Pach Bosch
-- Miquel segarra
-- Belmunt Soldevila
-- Boirach Tillo
-- Calafell Perera
-- Cabrol Ribera Benita Maria Teresa
-- Ingles Timoneda
-- Reñe Florejades
-- Bernat Segarra
-- Robinat Pau
-- Ciurana Bove
-- Merolaa Moya
-- Carne Berfada
-- Marimon Bosch
-- Miret Gine
-- Claramunt Florejades
-- Ingles Perera
-- Capell Fonte
-- Gavernet Esque
-- Tillo Sans
-- Quintana Camins
-- Safont Ribes
-- Moya Duch Ramon Pablo Francisco
-- Esque Lleonart Raimunda Fancisca Josefa
-- Nadal Capdevila
-- Garsaball Gine
-- Pobill? Garcia
-- Pau Farregut
-- Esque Boyrach
-- Ribera Miret
-- Sumalla Monne Francisco Ramon Jose
-- Vidal Motllo
-- Sumalla Bellmunt Antonio Ramon Jose
-- Corbella Soldevila
-- sans sallas
-- Montero Sans
-- Negre Vidal
-- Capdevila Moya
-- Farragut Bellmunt
-- sans tudela
-- Tillo Roset
-- Aiguade Abat
-- Perera Robinat
-- Fallada Cervera
-- Esque Artigues
-- Canela Berga Raimunda Teresa Francisca
-- Felip Tillo
-- Canela Timoneda Ramon Juan Jose
-- Batlle Bellmunt
-- Vives lleonart Miguel jose Francisco
-- Pau Salat
-- Guasch Cañiz
-- Moya Duch Antonio Jose Francisco
-- Balleste Timoneda Jaime Pedro Francisco
-- Quintana Arbones
-- Vilaro Risa
-- Sans Vidal Bautista Francisco Jose
-- Boladeras Pont
-- Sallaa Torrella
-- Cortacans Abrado
-- Vantons Vila
-- Esque Perello
-- Vidal Querolt
-- Puigdengoles lleonat Jose Buenaventura francisco
-- Baro Benabeu
-- Pont Gras
-- Querolt sole
-- Bellmunt Soldevila
-- gacueva?? Peralta
-- Merola Reñe
-- Rubio Novell
-- Balcells (Cots) Moya
-- Torres Bellmun
-- Reñe Serra
-- Cabrol Ribera Salbador Jose Francisco
-- Canti  Salla
-- Daran sans
-- Sumalla Monne Rosalia Juana Francisca
-- Ayguade Duch
-- Sumalla Pau Jose Francisco Ambrosio
-- Serra viladrosa?
-- Canela Timoneda Teresa Maria Francisca
-- Pages Sarret
-- Moya Garsaball
-- Boyrach Tillo
-- Rubi  Bosch
-- Bernat Canals
-- Sumalla Bellmunt Ramon Jose Ambrosio
-- Vives Lleonart Hipolito Jose Ambrosio
-- Sans Viladrosa
-- Albareda Barbera
-- Moya Aubach
-- Perera Balleste
-- Majoral Serra
-- Pujalt Duch
-- Moya Duch Jose Antonio Ambrosio
-- Aldoma Gairoles
-- Esque Lleonart Maximo Antonio Francisco
-- Queixal Canela Domingo Jose Francisco
-- Mata Sans
-- Saureu Florejades
-- Morgues Carola
-- queralt moya
-- Balcells Poch
-- Duch  Naves
-- Teixido Ribera
-- Vidal Salat
-- Bove Perera
-- Sans Vidal Felsio? Jaime Francisco
-- Gras Esque
-- Naves Boirach
-- Arque Moya
-- Esque Llacayo
-- Baget Jacques
-- Ayguade Abat
-- Moya Cullere
-- Balcells Jordana
-- Beruat Moya
-- Sans soldebila
-- Capdevila Fallada
-- Pallice Pau
-- Dalmau Sans
-- Elias Selma
-- Royo  Masalles
-- Sulamma Lleonart Rosalia Antonia Maria
-- Miro Sole
-- Abad Majoral
-- Sumalla Pau Ramona Maria Teresa
-- Timoneda Bove
-- Pujol Duch
-- Aubach Ribera Teresa Josefa Maria
-- Rivera Mirot
-- Vives Roset
-- Balleste Timoneda Francisco Jose Ambrosio
-- Canals Fontova
-- Goma Ferre
-- Esque Lleonart Antonio Francisco Ambrisio
-- Moragues Carola
-- Pifarre Boldu
-- Balcells Cots
-- Arbos Gabernet
-- Fallada Piera
-- Gil Mata
-- Guardia Vidal
-- Moya Vallverdu
-- Bernat Estalella
-- Mayoral Pifarre
-- Orrit Canto
-- Bellmunt Perera
-- Rodon Duch
-- Reñe Sans
-- Ribera Mata
-- Balcells Balcells
-- serra Ribera
-- Perera Pelegri
-- Sans Lleonart Jaime Jose Juan
-- Queralt Cabrol
-- Abril  Segura
-- Cabre Balague
-- Jordana Saureu
-- Sans Vidal
-- Mirot? Andreu
-- Naves Pont
-- Coll Guasch
-- Teixido Soldevila
-- Pelegri Balleste
-- Esque Bernat
-- Gotsens Queralt
-- Sans Miach
-- Recasens Naves
-- Bosch Magaroles
-- Vilaro Vila
-- Barbera Pifarre
-- Sans Bosch
-- Sumalla Torres Dolores Rosa Francisca
-- Bernat Puig
-- Miret Perera
-- Vila Ballverdu
-- Andreu Farragut
-- Tarros Sumalla Maria Francisca
-- Pont Poca
-- Boladeres Vila
-- Lleonart Roset Juan Pedro Francisco
-- Sans Florejades
-- Gras Teixidor
-- Cabau Moya
-- Vidal Balcells
-- Viladiora?? Herrera
-- Fallada Ribera
-- Salla Reñe
-- Sole  Perello
-- Canals Boyrach
-- Esque Masso
-- Baro Esque
-- Queralt Andreu
-- Vidal Viñes
-- Bofarull Segura
-- Teixido Recasens
-- Corbella Pau
-- Sans Seto
-- Balleste Pifarre
-- Salat Sans
-- Quintana Vila
-- Sumalla Gasull Josefa Teresa Francisca
-- Cullere Perello
-- Canals Balasch
-- Robinat Naves
-- Bernat Balleste
-- Pernau Dalmau
-- Safont Verdes
-- Perello Cullere
-- Farre Sole
-- Pont Orteu
-- Merola Mastorell
-- Boladeres Ceto
-- Bellmunt Roset
-- Satorra Barbens
-- Cabrol Boirach
-- Bellmunt Torremade
-- Duch albert
-- Vila Camins
-- sans gine
-- Odena Mida
-- Safont tudela
-- Vidal Sala
-- Duch Tort
-- Argiles Naves
-- Balague Cantons
-- Gavernet pujol
-- Pujol Coll
-- Moya Bellmunt
-- Pau Gort??
-- Moya Prats
-- Aubach Ribera Teresa Maria Francisca
-- Bellmunt Cabau
-- Felip  Gotsens
-- Massalles Ribera
-- Farragut Balcells
-- Gras Coll
-- Aiguade Segues
-- Sans Arbos
-- Verdes Safont
-- Moya Gaya Rosendo Jose Francisco
-- Salat Ribera
-- Fallada Canals
-- Abat Capdevila
-- Esque Argiles
-- Sumalla Salla Buenaventura Antonia Francisca
-- Roset Bellmunt
-- Duch Rodon
-- Capdevila Gelonch
-- Miret Pau
-- Ribes Monells
-- Lleonart duch Jose Antonio Francisco
-- Vila Audreu
-- Capdevila Queralt
-- Vidal Pont
-- Gotsens Soldevila
-- Querolt Rubi
-- Vidal Cots
-- Serret Riu
-- Esque Capdevila
-- Sans Lleonart Jose Antonio Mariano
-- Monells Boneu
-- Turruella Enseñat
-- Vila Vidal
-- Pedros  Gotsens?
-- Naves Capdevila
-- Tillo Bellmunt
-- Perera Carne
-- Fallada Sanfeliu
-- Balcells Boladeres
-- Farregut Sumalla Antonio Geronimo Gaime
-- Perera Viladrosa
-- Baget Suphigueu??
-- Bilalta Esque
-- Boldu Safont
-- Pau Cots
-- Safont Vidal
-- Canals Torres
-- Sans Cabau
-- Pau Cantons
-- Esque Lluis
-- Tacies Arbos
-- Guaseto? Alsina
-- Ribes Quintana
-- Pau Pedros
-- Boyrach Deidi
-- Sans Balleste
-- Querol Vidal
-- Gayroles Camins
-- Selma Sans
-- Coll Cortacans
-- Sans Timoneda Dolores Rosa Francisca
-- Cabau Vidal
-- Baro Nicolau
-- Bernat Nogues
-- Vila Roset
-- Naves Angles
-- Balcells Canals
-- Ribera Bota
-- Saureu Mida
-- Sans Deidi
-- Maso Vives
-- Segarra Vila
-- Boldu Boladeres
-- Queral Andreu
-- Bellmunt Tillo
-- Rubi Gine
-- Serra Sumalla Josefa Maria Rosa
-- Ribes Balcells
-- Motllo Canals
-- Rius Esque
-- Teixido Querolt
-- Gras Batlle
-- Ribera Roset
-- Naves Balcells
-- Miret Safont
-- Pujol Perello
-- Carrera Masalles
-- Monells Miret
-- Merola Gine
-- Sole Perello
-- Majoral Pifarre
-- Timoneda Perera Francisco Jose Juan
-- Tarros Nadal
-- Lleonart Gavernet Ildefonso Ramon Francisco
-- Lleonart Roset Evotir? Francisca
-- Querolt Balcells
-- Sans Ceto
-- Ribera Timoneda Maria Raimunda Francisca
-- Capdevila Saureu
-- Capdevila Cots
-- Cots Vila
-- Miquel Boldu
-- Perello Ribera
-- Vilalta Garsavall
-- Vila Verdu
-- Queralt Calvet
-- Gil Mota
-- Viladrosa Herrera
-- Sans Guasch
-- Vila Fallada
-- Sumalla Gasull Ramon Francisco
-- Coll Santa Euteria?
-- tarros Pujol
-- Aubach Ribera Ramon Jose Franciso
-- Bellmunt Queralt
-- Esque Valles
-- Sumalla Duch Jose Francisco
-- Sans Borch?
-- Lamich?? Casarayas
-- Naves Selma
-- Lleonart Sans Rosa antonia Francisca
-- Palou Torrades
-- Ivars Teixido
-- Francesch Pla
-- Gras Ribes
-- Cabau Sole
-- Vidal Robinat
-- Ribas Monells
-- Odena Meda
-- Sotorra Barbens
-- Canals Boirach
-- Naves Tillo
-- Tillo Aritseta
-- Ribera Torrens
-- Turnella Euseuat?
-- Rodes Nobell
-- Masalles Ribera
-- Vila Andreu
-- Moya Reñe
-- Bernat Perello
-- Sans Llahonart? Antonio Francisco
-- Tarros Sumalla Concepcion Francisca
-- Monpeo Roca
-- Sans Roig
-- Capdevila Querolt
-- Falip Gotsens
-- Sobrepere Boixadors
-- Puigdengoles Font
-- Tarros Moya
-- Sumalla Salla Dominga Engracia Rosa
-- Farragut Sumalla Dolores Francisca
-- Ribera Mota
-- Ganjarol? Mir
-- Cabrou? Pasdell?
-- Caixal Miguel
-- Sans Nogue
-- Arbos Gavernet
-- Espinet Pla
-- Llehonart? Gavernet Miguel Ildefonso Francisco
-- Cabrol Boyrach
-- Guasch Alsina
-- Llopes Sans
-- Francesch Pal
-- Sans Lleonart  Antonio Jaime Yesebro??
-- Pont Carbones
-- Saureu Meda
-- Selma Domingo
-- Sans Roselu?
-- Lleonart Duch Dolores Josefa Francisca
-- Vila Rodon
-- Sans Catala
-- Vila Monell
-- Sans Floreyachs?
-- Elias Robinat
-- Farregut Balcels
-- Lleonart Roset Juan Ildefonso francisco
-- Sans Daidi
-- Boladeras Vila
-- Sans Oliach
-- Verdes Barbens
-- Renñe Sans
-- Puigdengoles Fonte
-- Cullere Vilamajo
-- Lleonart Sans Miguel Jose Francisco
-- Queixal Canela Ramon Francisco
-- Querol Balcells
-- Carnet Cots
-- Lleonart Gavernet Ildefonso Pablo Juan
-- Sans Lleonart Ramon Francisco
-- Rosell Sole
-- Ribera Timoneda Estevan Camilo Francisco
-- Pedro Pujol
-- Gayeroles Camins
-- Miro Mateu
-- Andreu Monells
-- Salat Arbos
-- Morera Segura
-- Serra Nadal
-- Cots Bove
-- Llaner Quintana
-- Gaujast? Mir
-- Vila Aixala
-- Sans Roch
-- Pons Jordana
-- Sumalla Gasull Teodoro Francisco
-- Sans Lopes
-- Incognito teresa rosa
-- Ribera Rota
-- Carne Cots
-- Ribera Torus
-- Cabau Codina
-- Salat Cantons
-- Sans Reñe
-- Bisiana Sans
-- Reñe Sumalla Magdalena Paula Francisca
-- Puigdengoles Gonte
-- Lleonart Lleonart Dolores Francisca Rosa
-- Pont Arbones
-- Sumalla Rius Jose Antonio Francisco
-- Lleonart Duch Antonio Jose Francisco
-- Tarros Sumalla Rosa Raymunda
-- Timoneda Perera Raimunda Josefa Francisca
-- Mollo Canals
-- Llopir Sans
-- Miguel Boldu
-- Naves Castillo
-- Lleonart Gavernet Teresa Francisca
-- Rosell Serret
-- Naves Daran
-- Rivela cortes
-- Bosch Florejats
-- Esque Ortiques
-- Cullere Bilamajo
-- Rernat Balleste
-- Yessa? Vila
-- Capdevila Querol
-- Cassarara?? Sans
-- Ribera Querolt
-- Esque Llombart Pedro Jayme Buenaventura Jose
-- Gayroles Quintana
-- Sans Queral
-- Safont Masso
-- Aubach Ribera Francisco Antonio Jose
-- Gotsens Balleste
-- Queixal Canela Raymunda Teresa Francisca
-- Queixal Canela Sebastian Pablo Francisco
-- Marsal Balcells
-- Roset Tillo
-- Sans Lopez
-- Esque Belles
-- Giral Arrufat
-- Ribera Timoneda Dolores Raymunda Francisca
-- Segarra Montserrat
-- Riu Piera
-- Sumalla Gasull Francisco Jose Juan
-- Segura Pernau
-- Naves Castello
-- Viciana Sans
-- Sumalla Rius Antonio Geronimo Francisco
-- Moya Moya
-- Pau Farragut
-- Pont Salla
-- gayart Mir
-- Salat Bellmunt
-- Sans Pane?
-- Reñe Sumalla Tecla Francisca Josefa
-- Carne Castells
-- Robinat Julia
-- Esqie Pont
-- Aubah Ribera
-- cervera Font
-- Teixido queral
-- Vilano Vila
-- Balcells Poca
-- gayroles farregut
-- vidal tillo
-- Boyrach  Tillo
-- sans vidal Rosa Raymunda Francisca
-- lleonart duch Ramon Geronimo Francisco
-- Rubio  Novell
-- yugles Perera
-- Marti Palau
-- Llopis Sans
-- Lleonart Lleonart Florentina Josefa Francisca
-- Sans Peres
-- Moya Duch
-- Queixal Canela Estevan Francisco Parlos
-- Pallerola Tapies
-- Vila Ribera
-- Duch Querol
-- De Riu Bomet
-- Guasch Cullere
-- Perello Monila
-- Ribera Balcells
-- gayroles carne
-- Sumalla Esque Engracia Maria Josefa
-- Lleonart Sans Antonio Jose Francisco
-- Montero Clave
-- Goma Masso
-- Gassol Perello
-- Marti Saragosa
-- Salat Masalles
-- Aubach Argiles
-- Cervera Tort
-- Sumalla Gasull Miguel Modesto Jose
-- Sumalla Recasens  Maria Antonia Josefa
-- Lleonart Gavernet Concepcion josefa 
-- Coll Cortecanns
-- Gavernet Moya
-- Cots Bobe
-- Sumalla Rius Sebastian Ramon Francisco
-- Poch Deidi
-- Sans Guash
-- Garsavall Palanca
-- Safont Canals
-- Naves Esque
-- Salla Torrella
-- Gayroles Siurana
-- carascosa¿ Sans
-- Esque Balcells
-- Timoneda Perera Francisca Teresa Maria
-- Daruell Reñe
-- Monells Guasch
-- Lleonart Sans Brigida Josefa Francisca
-- Siurana Bobe
-- Sumalla Torres Cosme Jose Francisco
-- Rosello Capell
-- Lleonart Duch Basilio? Francisco
-- Sans Timoneda Pedro Juan Francisco
-- Toset Tillo
-- Sumalla Esque Jose Ramon Francisco
-- Sumalla Bellmunt Jaime Jose Juan
-- Sans Gotsens
-- Balcells Boladeras
-- Sumalla Recasens Ramon Mateo Francisco
-- Miret Carnice
-- Baro Pocho
-- Cabre Esque
-- Romna Marro
-- Moya Tornet
-- Timoneda Sans Dolores Raymunda Francisca
-- Cullere Argiles
-- Caixal Canela Luisa Francisca Maria
-- Naves Ricart
-- De Riu Bonet
-- Bobe Perera
-- Solanes Perello
-- Francisco Ambrosio
-- Reñe Sumalla Paula Antonia Francisca
-- Tillo  Bellmunt
-- Cervera Ivars
-- Aritseta Roset
-- Puigdengoles Fonte?
-- Garsavall Ceto
-- Duelo Querolt
-- Miguel Segarra
-- Pau Faragut
-- Moya Duch Concepcion Raimunda Francisca
-- Argiles Moya
-- Canela Timoneda Sebastian Francisco Jose
-- Bobe Pau
-- Sumalla  Torres Antonia Rosa Josefa
-- Gayroles Ciurana 
-- Elias Celma
-- Lleonart Sans Rafael Anastasio Francisco
-- Sans Timoneda Pablo Jose Ambrosio
-- Sans Montala
-- Carrascosa Sans
-- Sole Pou
-- Cabrol Ribera
-- Duch  Cots
-- Mones? Sans
-- Capdevila Nadal
-- Gayroles Garregut
-- De riu Naves
-- Capdevila Tapies
-- Safont Menso
-- Sumalla Recasens Emilia Antonia Teresa
-- Canela Timoneda Cecilia Raymunda Francisca
-- Sumalla Esque Jose Antonio Francisco
-- Vidal Aumello
-- Garsavall Gine
-- Careras Sans
-- Marsal Cullere
-- Lleonart Duch Juan Francisco Ambrosio
-- Baro Poch
-- Bosch Ginebrosa Jose Geronimo Ambrosio
-- Fallada Rey 
-- Cullere Coll
-- Arufat Vidal
-- Miach Roset
-- Cabre Balcells 
-- Sumalla forcat Jose Ambrosio
-- Prat Gras
-- Sans Timoneda Antonio Francisco Ambrosio
-- Sans soler
-- Moya Riva
-- Lleonart Sans Maria Teresa Francisca
-- Sumalla Bellmunt Teresa Raymunda Francisca
-- Guarch Cullere
-- Perello Balcells
-- Timoneda Sans Jose Pablo Francisco
-- Serra Vila
-- Aubach  Perello
-- Montllo Capdevila
-- Mones?? Pau
-- Domingo Torres
-- Safont Canales
-- Canela Timoneda Josefa Raymunda Francisca
-- Moret Naves
-- Sumalla Recasens Dolores Juana Francisca
-- Sumalla Recasens Maria Ramona Francisca
-- Sumalla Lleonart Juan Jose Ambrosio
-- Bugles? Perera
-- Duch Querolt
-- Bonet Safont
-- Montero Estalella?
-- Claramunt Pernau
-- Sumalla Esque Ramon Jaime Francisco
-- Ivars Esque
-- Jose Jose Francisco
-- Sumalla Bellmunt Maria Raimunda Francisca 
-- Lleonart Sans Paula Margarita Francisca
-- Sumalla Gine Encarnacion Teresa Francisca
-- Aritseta Lloret
-- Quintana Arbonés
-- Gaya Sans
-- Torres Bellmunt
-- Sans Timoneda Maria Josefa Francisca
+ - Cognoms
+ - Sans Serra
+ - Ribera Arqués
+ - Josue Capdevila
+ - Arrufat Canela
+ - Mata Sanfeliu
+ - Boldu Sans
+ - Perello Majoral
+ - Queralt Sans
+ - Vidal Vidal
+ - Sans Bellmunt
+ - Esque Nadal
+ - Queralt Aiguade
+ - Sans Sumalla Antonio Jaime Jose
+ - Sans Ingles Jaime Rosendo Luis
+ - Miro Sanfeliu
+ - Pons Farrau
+ - Sans Cabre?
+ - Bernat Timoneda
+ - Mone Reñe
+ - Roset Duch
+ - Marsal Aldoma
+ - Baró Perelló
+ - Sans Meler
+ - Pau Serra
+ - Mesalles Torres
+ - Aubach Ballesté
+ - Tarros Ribera
+ - Moya Ribera
+ - Safont Sans
+ - Sans Ribera Ramon Rafael Jaime
+ - Ribera Martinez
+ - Ingles Sans
+ - Nadal Duch
+ - Roset Saureu
+ - Elies Vidal
+ - Sans Pedrol
+ - Solé Clavé
+ - Mullerat Sans
+ - Dalmau Bea
+ - Masalles Vilanova
+ - Reñe Boladeres
+ - Ribera Gras
+ - Gaya Elies
+ - Vidal Sans
+ - Sans Vidal Florian Manuel Jaime
+ - Texido Bofarull
+ - Segarra de Riu
+ - Panades? Mestres
+ - Esque Canela
+ - Gorgues Sans
+ - Bosch Camins
+ - Moya Sans Juan Batiste Antonio Jose
+ - Queralt Naves
+ - Sans Goiyar??
+ - Claramunt Tarrós
+ - Sumalla Castella Ana Adela Josefa
+ - Serra Fauria?
+ - Sans Vidal Francisco Javier Jose
+ - Ribera Boirach
+ - Esque Roca
+ - Monclús Vidal
+ - Sumalla Farré Maria Del Pilar Francisca Jacoba
+ - Timoneda Fallada
+ - Aritseta Boladeres
+ - Balleste Capdevila
+ - Villar Sumalla Manuel Jose Jaime
+ - Perelló Aritseta
+ - Pernau Prats
+ - Gras Palou
+ - Salat Oms
+ - Bellmunt Marea
+ - Sumalla Vigata Dolores Marcela josefa
+ - Perello Perera
+ - Omells?? Bernat
+ - Alsina Alemany
+ - Queralt Capdevila
+ - Torrelles Sans
+ - Sans Motllo
+ - Majoral Bellmunt
+ - Perera Tillo
+ - Balcells Ribera
+ - Sans Pou
+ - Tiudela Calvis
+ - Sola Poch?
+ - Moya Farre
+ - Safont Roset
+ - Sans Tillo
+ - Monells Elies
+ - Vidal Camins
+ - Botonch Cabrol
+ - Sumalla Queralt Jaime Sebastian Jose 
+ - Sans Marti
+ - Moya Muntala
+ - Ingles Boirach
+ - Pau Roset
+ - Pejoan Sumalla Rosa Francisca Jacoba
+ - Ill Boldú
+ - Ciurana Sans
+ - Sans Sans
+ - Recasens Sans
+ - Orrit Gorundella??
+ - Pau Sans
+ - Pontnou Miro
+ - Motllo Sans
+ - Capdevila Naves
+ - Pernau Sans
+ - Escalé Linea
+ - Felip Naves
+ - Gairoles Fallada
+ - Ribera Cau
+ - Sans Esque
+ - Morlans Queralt
+ - Queralt Ximenos
+ - Roset Cots
+ - Balague Naves
+ - Gabriel Salvadó
+ - Bonet Escale
+ - Quintana Bove
+ - Boldu Aubach
+ - Tillo Duch
+ - Oiyala??? Duch
+ - Miret Monells
+ - Vidal Coll
+ - Pons Sans
+ - Gaya Duch
+ - Sans Clave
+ - Incognito (Sans Moya + Canals)
+ - Tarrós Duch
+ - Serra Roset
+ - Compte Tarros
+ - Vidal Mesalles
+ - Gras Naves
+ - Domenech Sans
+ - Aubach Naves Jose Carlos Luis
+ - Domenech Balcells
+ - Roset Soureu?
+ - Sans Ciurana
+ - Vila Safont
+ - Balcells Cortada
+ - Timoneda Pau
+ - Vidal Duch
+ - Aguadé Sans
+ - Sans solé
+ - Sans Bernat
+ - Armengol Pau
+ - Duch timoneda
+ - Carulla Argiles
+ - Pelegrí Perello
+ - Quintana Miro
+ - Cabau? Bellmunt
+ - Safont Duch
+ - Ill Sans
+ - Moya Balague
+ - Cullere Sans
+ - Masot Abizanda?
+ - Perello Bosch
+ - Sans Sumalla Jose Maria Luis
+ - Canela Aldoma joaquin ramon jose
+ - Perello Oliach
+ - Sumalla Canela Jose Ramon Luis
+ - Perello Vidal
+ - Sans Cantons
+ - Capdevila Bellmunt
+ - Moya Perera
+ - Figueres Capdevila
+ - Aiguadé Bellmunt
+ - Argiles Culleré
+ - Roset Miret
+ - Safont Bosch
+ - Perello Montero
+ - Nadal o Reñe / Queyal?
+ - Sole Vidal
+ - Querol Queralt
+ - Perera Bernat
+ - Perera Sans
+ - Salat Ribes
+ - Ribera Ill
+ - Vidal Safont
+ - Moya Abad
+ - Vidal Clara
+ - Bernat Miret
+ - Guasch Sans
+ - Aubach Balleste
+ - Ximenos Gras
+ - Pifarre Marimon
+ - Moya Canals
+ - Monclus Vidal
+ - Cabrol Moya Jaime antonio jose
+ - Sans Salbado
+ - Ribera moya
+ - Sans Canela
+ - Gairoles Sans
+ - Sans Ribera Manuel Ramon Jaume
+ - Sans Vidal David Jesus Jose
+ - Bonet Escalé
+ - Naves Moyá
+ - Monells Bisa
+ - Pons Farráu
+ - Gras Vidal
+ - Bofarull Safont Rosa Maria Jacoba
+ - Moya Perello
+ - Garsavall Balcells
+ - Sumallla Queralt
+ - Sans Perera
+ - Roset Esque
+ - Sans Cornet
+ - Pons Gene
+ - Sans Martí
+ - Targa Segarra
+ - Baiget Ramon
+ - Carulla Canals
+ - Esque Duch
+ - Incognito (Moya Sans + Moya Gaya)
+ - Moya Sans Josep Maria Luis
+ - Sumalla Vigata Rosa i Maria
+ - Pau Montero
+ - Sans Gras
+ - Duch Cortecans
+ - Culleré Sole
+ - Rubinat Sans
+ - Sans Perello
+ - Timoneda Ribera
+ - Boladeras Ribera
+ - Bellmunt Alsina
+ - Calafell Sans
+ - Sans Vidal Jose ramon jaime
+ - Elies Sans
+ - Serrat Colomina
+ - Pau Falco
+ - Sumalla Farré Jose Maria Luis
+ - Montero Balcells
+ - Marti Prats
+ - Naves Farre
+ - Salat Escale
+ - Vidal Teixido
+ - Torres Moya
+ - Perello timoneda Jose Ramon Jaime
+ - Safont Boirach
+ - Querolt Capdevila
+ - Sardá Naves
+ - Sabadó Esque
+ - Satorra Roset
+ - Armengol Ciurana
+ - Aubach Naves Dolores Teresa Jacoba
+ - Sans Vilaro
+ - Queralt Ribes
+ - Sans Clavé
+ - Rey Coll
+ - Vidal Miret
+ - Robinat Sans
+ - Vidal Quintana
+ - Domenech  Balcells
+ - Roset Safont
+ - Perera Fallada
+ - Quintana Tillo
+ - Gaya Vallverdú
+ - Pach Bové
+ - Vidal Tarrós
+ - Sans Pont
+ - Marti Tillo
+ - Sans Roset Juan Jaime Jose
+ - Ribera Hill
+ - Sans Graells
+ - Vidal Masalles
+ - Boladeres Reñe
+ - Pejoan Sumalla Raimunda Monserrat Jacoba
+ - Roset i Cols
+ - Sans Pau
+ - Perera Gras
+ - Ibars Segués
+ - Timoneda Bernat
+ - vidal gil
+ - Gaya Sanfeliu
+ - Queralt Masgoret
+ - Alzina Monne
+ - Fallada Querolt
+ - Pons Cantons
+ - Texido Montañola
+ - Perera Perera
+ - Sans sumalla Jose Antonio Jaime
+ - Ribera Teixido
+ - Sans Moya
+ - Gotsens Quintana
+ - Sans Vidal Antonia Josefa Jacoba
+ - Sans Cabre
+ - Florejachs Reñe
+ - Perello Serra
+ - Carulla Argeles
+ - Rubi Martinez
+ - Balcells Tarrós
+ - Cots Sans
+ - Vila de riu
+ - Boirach Roset
+ - Pujol Fallada
+ - Tudela Calvis
+ - Gayroles Fallada
+ - Massot Albiranda
+ - Aiguade Bellmunt
+ - Ribera Torres
+ - Dalmau Tacies
+ - Ribes Busquets
+ - Vidal Homs
+ - Comenje Monelus
+ - Figueres Sans
+ - Salat reñe
+ - Rullo??  Vila
+ - Moya Carne?
+ - Perello Tillo
+ - Torné Capdevila
+ - Bofarull Safont Josefa Maria Jacoba
+ - Perello Teixido
+ - Pau Vidal
+ - Torres Serra
+ - Sans sole
+ - Sans Vidal Maria Antonia Jacoba
+ - Aixola tarros
+ - Domingo Batista
+ - Bellmunt Berengue
+ - Timoneda Balleste Matilde Magdalena Maria
+ - Nadal Esque
+ - Bofarull Galito
+ - Salla Roset
+ - Argiles Cullaré
+ - Aiguade Sans
+ - Cots Segarra
+ - Aubach Naves Maria Josepa Rosa
+ - Roset Saureu??
+ - Queral Duch
+ - Gine Potau
+ - Fallada Gairoles
+ - Miro Esque
+ - Sumalla Farré Prudencio Buenaventura Jaime
+ - Sans Josa
+ - Baro Perello
+ - Ribes Sans
+ - Sole Clave
+ - Felip Guasch
+ - Ximenos Mullerot
+ - Motllo Duch
+ - Moyá Abad
+ - Sumalla Canela Juana assuncion Josefa
+ - Gotsens? Nadal
+ - Marti Sans
+ - Ribera Boirach H
+ - Gavernet Fallada
+ - Perello sanfeliu
+ - sans moyá
+ - arbos sans
+ - Balcells pujol
+ - Perello Timoneda Montserrat Francisca Jacoba
+ - Sans Roset Migel Francisco Jose
+ - Vidal Moyá
+ - Huget pons
+ - De Riu Guarch
+ - Roure Clavé
+ - torrellas sans
+ - Camins Naves
+ - Pons Sumalla Juan Manuel Jaime
+ - Vidal Ximenos
+ - Capdevila Sans
+ - Ribes cortecans
+ - Ribera Teixidó
+ - Roset Elias ?
+ - Balsells Cortada
+ - Quintana ¿Gausar?
+ - Canela Palau
+ - ¿Bufau?  Sans
+ - sans Canals
+ - Sanfeliu perera
+ - Rey Ribera
+ - Bernat Duch
+ - Canela Aldoma Sofia Juana Maria
+ - Escale Sinca
+ - baro sans
+ - Masot Abiranda
+ - Timoneda Tillo
+ - Queralt Gimenos?
+ - Perera Marimon
+ - Janavall? Balcells
+ - Bellmunt Gaya Raimuna Rosa Maria
+ - Alzina moné
+ - Roset cols
+ - Perello  Bosch
+ - Esque ribera
+ - Perello  oliach
+ - Prous? Mata
+ - Sans Ingles Alberto Jaime Jose
+ - Aixalá Mansana?
+ - Quintana Argiles
+ - Ximenos Mullerat
+ - Dalmau  tacies?
+ - Lleonart Motlló
+ - Bellmunt Berengué
+ - Motllo sole
+ - Sumalla Queralt Raimunda Teresa Maria
+ - Tillo Timoneda Bonaventura Dolores Jacoba
+ - Gracia Sumalla Juan Manuel Jaime
+ - Marca?  Tortecada
+ - Gaya Bonell
+ - Sans Ribera Francisco Antonio Jose
+ - Sans sumalla Julio Pedro Jaime
+ - Aldoma Ribera
+ - Flojachs?? reñe
+ - Duch nadal
+ - Inglés Boirach
+ - Pons Gené
+ - Perera Sams
+ - Cantons  canfi?
+ - Torne capdevila
+ - satorra moret
+ - Duch capell
+ - Bellmunt Vidal
+ - Moya Recasens
+ - Gayroles? Fallada
+ - Rodón Tillo
+ - Ribes Balague
+ - Montero Ribera
+ - Perello Sans
+ - Felip Guasch?
+ - Sans Escalé
+ - Marimon pons
+ - Bellmunt Alzina
+ - Argilés Culleré
+ - Sans Tilló
+ - Nadal Quexal?
+ - Argilés Xaumar?
+ - Sumalla Farré Rosa Raimunda Jacoba
+ - Boladeras Reñe
+ - Cabrol Moya Antonia Consuelo Maria
+ - Vidal Monells
+ - Queralt torrents
+ - Moya Camins Teresa josefa Maria
+ - Queralt Queralt
+ - Sans Moret
+ - Bellmunt Nadal
+ - Sumalla vigatá Rosa Jacoba 
+ - Rubí Martinez
+ - Ibars Legués
+ - Sumalla Vigata Antonio Jaime
+ - Capdevila Arbos
+ - Queralt Navés
+ - Torné Borjes
+ - Sanfeliu fallada
+ - Felip pont
+ - Vidal Oms
+ - Salat Duch
+ - Corbella Sans
+ - Moyá  Miró
+ - Vall Ingles
+ - Elias Marca
+ - Quintana Bové
+ - Timoneda Balleste Antonio Jaime Jose
+ - Queralt Duch
+ - Perello timoneda Maria Francisca Jacoba
+ - Gotsens? Quintana
+ - Gaunoles sans
+ - Vidal Rui
+ - Regordosa? Miro
+ - Baró Perello
+ - Baget Ramon
+ - latorra Cols
+ - Camins Queralt
+ - Naves Clavé
+ - Esqué Ribera
+ - Canela Aldomà Lluis Jose Jaime
+ - Cullera sole
+ - Perera i perera
+ - Esque motllo Francisca Maria Josefa
+ - Vall Sans
+ - Moya Boirach
+ - Oliach aritseta
+ - jose de l. pedro blanch
+ - Aixala Mansana
+ - Baladeras Balague
+ - Bofarull Safont
+ - Gavarro Segues
+ - Vidal Massalles
+ - Sanfeliu Perello
+ - Moya Solsona
+ - Pelegri Roset
+ - Escale Tillo
+ - Ponnou miro
+ - Sans vidal Josefa Maria Jacoba
+ - llevant duran
+ - Safont Inglés
+ - Perera Gotsens
+ - lleonart vidal
+ - Segarra Esqué
+ - Timoneda Pou
+ - Alsina Monné
+ - Perelló Serra
+ - Galceran Sans
+ - Ruera Marca
+ - Artós Sans
+ - Monfa Vidal
+ - Miret Sans
+ - Sans Merola
+ - Perelló Oliach
+ - Bellmunt Gaya Josefa Raymunda Jacoba
+ - Sans ingles Catalina Maria Josefa
+ - Culleré Perera
+ - Sumalla Canela Rosa Francisca Maria
+ - Lleonart Sans
+ - Sans Gayroles
+ - Serra Fauria
+ - Roig Cerveto
+ - Riu Guasch
+ - Sans sumalla Rosa Agustina Jacoba
+ - Sumalla Farré Bonaventura Jose Jaime
+ - Sans cullere
+ - Miquel Gotsens
+ - Arrufat Sans
+ - Miquel Cantons
+ - Gort? Porta
+ - Pifarre Badia
+ - Quintana Gausart
+ - Miro Vila
+ - Sans Perelló
+ - Florejades? Reñe
+ - Monne reñe
+ - Sola Poch
+ - Texido Gil
+ - Argilés Xammar
+ - Esque cullere
+ - Gracia Sumalla Magdalena Josefa Jacoba
+ - Sans Escale
+ - Boldu Perello
+ - Cases Graells
+ - Quintana Naves
+ - Montero Gañet
+ - Canela Aldoma Francisco Luis Jaime
+ - Aixala Balcells
+ - Capdevila Arbós
+ - Pau Bardia
+ - Vives Berengué
+ - Moya Camins Juan jose jaime
+ - Elias Marea
+ - Ribera Fallada
+ - Bosch Monells
+ - Fallada Queralt
+ - Berengue Bellmunt
+ - Torne Borjas
+ - Salla Vidal
+ - Cabrol Moyá Rosa magdalena luisa
+ - Bibes Balague
+ - Elias Vallverdu
+ - Ciurana Tillo
+ - Cantons Canti
+ - Naves Ciurana
+ - Monne capdevila
+ - Roset Esqué
+ - Argiles Cullere
+ - Sans Miret
+ - Boyrach Roset
+ - Felipe pons
+ - Gabarró Segues
+ - Tapiol Niubó
+ - Gotsens nadal
+ - Sumalla Castella Providencia josefa luisa
+ - Lleonart Motllo
+ - Vidal Capdevila
+ - Sans Lleonart
+ - Sumalla Vigatá
+ - Perello Timoneda Paulina francisca jacoba
+ - Richart Aparici
+ - Companys Sanfeliu
+ - Sans Motlló
+ - Martin Roca
+ - Perera Duch
+ - Sans Pedrós
+ - Reñe Nadal
+ - Gotzens Quintana
+ - Balcells Moya
+ - Boladeres teixido
+ - De Gracia Sumalla Fermin Francisco Jaime
+ - Perera Perello
+ - Esque Motllo Ramon Olegario Ambrosio
+ - Moya Espinet
+ - Vilalta Cullere
+ - Moya Solsone
+ - Pujol teule
+ - Sans Ribera Teresa Ramona Josefa
+ - Sans Gairoles
+ - Bosch Sans
+ - Carne Sans
+ - Lleonart Bonell
+ - Perera tallada
+ - Monells Cortada
+ - Elias? Andreu
+ - Motllo Tacies
+ - Bosch Pernau
+ - Safont Balague
+ - Monells Serra
+ - Garret Gil
+ - Satorra Cots
+ - Gotsens Vidal
+ - Tarros Rodon
+ - Duch Vila
+ - Texido Capdevila
+ - Fallada Vidal
+ - sans gavernet
+ - Balcells Cabrol Jaime Jose Antonio
+ - Cots Queralt
+ - Duch Perera
+ - Cullere Huget
+ - Paisa Garvet
+ - Lleonart Canals
+ - Sans Balcells
+ - Bosch Capdevila
+ - Aritsesa Marsal
+ - Sans Querol
+ - Miquel Tillo
+ - Roset Sans
+ - Clave Bosch
+ - Cullere Perera
+ - Carrera Aubach
+ - Incognito Farragut
+ - Vidal Rubi
+ - Miquel  Cantons
+ - Capdevila Esque
+ - Pau Badia
+ - Duch Regue
+ - Franquet Abat
+ - Tillo Perello
+ - Canals Guash
+ - Duch Bellmunt
+ - Queralt Torrent
+ - Tillo Drudes
+ - Miret Merola
+ - Verdes Garsavall
+ - Sans Bové
+ - Perera Cullere
+ - Cullere Sole
+ - Gaya Vallverdu
+ - Cullere Marti
+ - Rodon Tillo
+ - Bellmunt Gaya
+ - Ribes Teixido
+ - Mullo Vila
+ - Pejoan Sumalla Teresa Maria
+ - Montane Sobrepere
+ - Boldu Bernat
+ - Sans Balaguer
+ - Cabrol Moya Benita Josefa Teresa
+ - Ribera Cervera
+ - Sans Coll
+ - Quintana Sans
+ - Selma Pujol Dolores Teresa
+ - Selma Pujol Antonio Jaime
+ - Fallada Gayroles
+ - Gabarro Segues
+ - Elias Ribera Jose Ramon Jaime
+ - Pasto Borras
+ - PADRINOS Sans Aubach
+ - Bellmunt Sans
+ - Pedros baget
+ - Sans Vila
+ - Cabrol Ibars
+ - Florejades Reñe
+ - Roset Robinat
+ - Sans Comes
+ - Canela Aldoma Rosa Francisca Teresa
+ - Teixido Capdevila
+ - Safont Ingles
+ - Pach Bove
+ - Moncusi Barrufet
+ - Elias Nadal
+ - Fallada Segura
+ - Pelegri Perello
+ - Quintana Andreu
+ - Catala Guasch
+ - Suñe Sola
+ - Quintana Lleonart
+ - Pons Sumalla Magdalena Antonia teresa
+ - Chimenos Mullerat
+ - de Gracia Sumalla Dolores Rosa Jacoba
+ - Esque Urzay
+ - Segarra Esque
+ - Sumalla Sans Ramona Manuela Jacoba
+ - Quintana Pares
+ - Pau Verdes
+ - Queralt Masdoret
+ - Vidal Salla
+ - Timoneda Balleste Dolores Raimunda Francisca
+ - Cantons Cami
+ - Tillo Fallada
+ - Sans Ingles Pedro Jose Jaime
+ - Segues Sans
+ - Cabrol Moya Pablo Jaime
+ - Gaya Roig
+ - Sans Ribera Antonio Ramon Jaime
+ - Sumalla Canela Maria Raimunda Jacoba
+ - Pique Sans
+ - Moya Camins Francisco Juan Jaime
+ - Lleonart Duran
+ - Monells Vidal
+ - Gayoles Sans
+ - Gayroles Codina
+ - Moya Boyrach
+ - Nadal Caixal
+ - Perello Timoneda Antonio Jose Jaime
+ - Ribera Elias Concepcion jacoba
+ - Ribera Elias Raimunda Josefa
+ - Ribera Quixa
+ - Torne Borges
+ - Miret Bernat
+ - Nos Cots
+ - Balcells Cabrol
+ - Astor Montserrat
+ - Balague Sans
+ - Esque Motllo Cecilia Pilar Jacoba
+ - Serra Andreu
+ - Vilalta Montero
+ - Moya Carne
+ - Bernat Argiles
+ - Cortada Vilalta
+ - Gabernet Fallada
+ - Duuc Capell
+ - Serra Sonalo?
+ - Buñales Perez
+ - Pujol Taulo
+ - Tarros Corbella
+ - Boria Torres
+ - Gavernet Sans
+ - Vidal Chimenos
+ - Vidal  Sans
+ - Camins Gausart
+ - Navarro Orus
+ - Sans Querolt
+ - Selma Pujol
+ - Quintana Duch
+ - Argiles Xammar
+ - Roset Boyrach
+ - Tapiol Niubo
+ - SansVilaro
+ - Ribes Cortacans
+ - Sans Pedros
+ - Elias Ribera Antonio Amadeo Jaime
+ - Sans Ingles Jose Antonio Francisco
+ - Canela Aldoma Ramon Jose Jaime
+ - Moya Miro
+ - Naves Quintana
+ - Carreras Sole
+ - Abat Majoral
+ - Sumalla Farré Maria Antonia Jacoba
+ - Sans Miquel
+ - Duch Motllo
+ - Ribes Duch
+ - Roset Elias
+ - Sumalla Queralt Rosa Raimunda Jacoba
+ - Sans Balague
+ - Gayroles Sans
+ - Timoneda Balleste Monserrat Antonia Jacoba
+ - Roset Miro
+ - Serra Massana
+ - Ribera Sauch?
+ - Bullo Vila
+ - Naves Farré
+ - Monells Riu
+ - Queralt Chimenos
+ - Mollo Sans
+ - Ibars Segues
+ - Vidal Moya
+ - Pejoan Sumalla Antonio Lorenzo Luis
+ - Alsina Monne
+ - Vetrian Ribera Maria Buenaventura Francisca
+ - Marca Francisca
+ - Aritzeta Marsal
+ - Duch Visa
+ - Sans de riu
+ - Pages Serret
+ - Sans Roset Coloma Brigida Francisca
+ - Bove Pifarre
+ - Perera Bellmunt
+ - Sans Massot
+ - Sans Satorra
+ - Sole Pont
+ - Bellmunt Capdevila
+ - Serra Cots
+ - Vidal Balague
+ - Queralt Alzina
+ - Escale Coll
+ - Clave Florejades
+ - Sans Vidal Teresa Ramona Francisca
+ - Bernat Prats
+ - Boladeres Roset
+ - Sans Baro
+ - Duch Sans
+ - Abad Fallada
+ - Ribes Vidal
+ - Serra Sans
+ - Sans Boladeras
+ - Ribera Perera
+ - Segarra Sole
+ - Esque Quintana
+ - Alsina Sans
+ - Moya Balcells
+ - Sans Sanfeliu
+ - Cots Ribes
+ - Cots Naves
+ - Bernat Esque
+ - Mas Alberich
+ - Ribera Marti
+ - Naves Escale
+ - Ibars Moya
+ - Cortacans Tarros
+ - Vidal Dalmau
+ - Sans Duch
+ - Badia Vila
+ - Moya Safon
+ - Gras sole
+ - Marca Marti
+ - Texido Ribera
+ - Roset Vilalta
+ - Recasens Vidal
+ - Pont Safont
+ - Aritseta Capdevila
+ - Canela Berga Benito Sebastian Francisco
+ - Cullere gotsens
+ - Naves Moya
+ - Bosch Berengué
+ - Bernat Moya
+ - Montero Pisalella?
+ - Sans Gabernet
+ - Tillo Vila
+ - Naves Merola
+ - Sans Barbara
+ - Capdevila Felip
+ - Perello Aldoma
+ - De riu Esque
+ - Sanfeliu Carnice
+ - Majoral Espina
+ - Perera Saimeu?
+ - Duch Ribera
+ - Cullere Moya
+ - Garsavall Baella
+ - Merola Moya
+ - Fallada Rey
+ - Cornuella Frabcesh
+ - Naves Ribes
+ - Capdevila Pernau
+ - Reñe Serra 
+ - Querol Sole
+ - Arque  moya
+ - Canals Recasens
+ - Sole Naves
+ - Gotsens Niubo
+ - Recasens Gispert
+ - Fallada Carrera
+ - Cabau Reñe
+ - Arrufat Vidal
+ - Sans Naves
+ - Vidal Mota
+ - Ribes Jordana
+ - Perello Morera
+ - Vives Lleonart
+ - Moya Sans Miguel Jose Francisco
+ - Garsavall Sans
+ - Tacies Sans
+ - Ribera Ribes Jose Pedro Francisco
+ - Alzina Vidal
+ - Duch Naves
+ - Clavé Bosch
+ - Sumalla Monné Dolores Ramona  Francisca
+ - Tacies Cabrol
+ - Sans Gayoles
+ - Sanfeliu Querol
+ - Vidal Querol
+ - Moya Duch Domingo Esteban Francisco
+ - Ripoll Carrera
+ - Duch Cots
+ - Comes Ribera
+ - Pifarre Bellmunt
+ - Sumalla Pau Geronimo Ramon Antonio
+ - llover Fornell
+ - Marti Bofarull
+ - Pifarre Gras
+ - Sans Capdevila
+ - Moya Corbella
+ - Riu Aubach
+ - Meler Sumalla Rosa Antonia Josefa
+ - Sans Vidal Raimunda Brigida Josefa
+ - Sans Teixido
+ - Balcells Sans
+ - Boldu Fallada
+ - Bosch Ginebrosa
+ - Farragut Vidal
+ - Carreras Sans
+ - Aubach Sans
+ - Cortada Florejades
+ - Elias Sans
+ - Moya Mata
+ - Sans Queralt
+ - Cullere Balleste
+ - Vidal Ribes
+ - Goma Farre
+ - Boladeras miret
+ - Miro Sans
+ - Esque Lleonart Ramon Jose Antonio
+ - Aldoma Elias
+ - Ciurana Perello
+ - Baget Jaques
+ - Gras Pifarre
+ - Poch Balcells
+ - Pau Vilalta
+ - Bernat Sans
+ - Aubach Ribera Gertrudis Teresa Antonia
+ - Capdevila Boyrach
+ - Serra Naves
+ - Esque Motllo
+ - Aiguade Abad
+ - gaya Coll
+ - Bosch Berengue
+ - Bellmunt Pont
+ - sans comas
+ - saureu sans
+ - Carnice Salat
+ - Robinat Balague
+ - Pont Querolt
+ - Moya Rodon
+ - Fallada Lleonart Teresa Maria Josefa 
+ - Carne Bergada
+ - Cornudella Francesch
+ - Sans Roset Victoriano Ramon Francisco
+ - Bautista Carbonell
+ - Segarra Moya
+ - Elias Andreu
+ - Vidal Canela
+ - Bernau Esque
+ - Pedros Esque
+ - Bosch Queralt
+ - Moya Sans Pablo Bernardo Jose
+ - Sans Rius
+ - Canals Guasch
+ - Esque Pau
+ - Saureu Malet
+ - Queralt pedros
+ - Querol Sans
+ - Queralt Alsina
+ - Roset Nadal
+ - Oms pau
+ - Segues Gras
+ - Segarra Pau
+ - Mollo Tacies
+ - Canela Berga Rosa Teresa Francisca
+ - Selma Capdevila
+ - Esque Puig
+ - Balleste Timoneda soledad raimunda josefa
+ - Motllo Mir
+ - Sans Bartolo
+ - Naves Argiles
+ - Alzina Sans
+ - Cortecans Abrado
+ - Sans Riu
+ - Sans Vidal Ramona Antonia Josefa
+ - Betrian Ribera Pablo Jose Francisco
+ - Elias Regodosa
+ - Safont Naves
+ - Bellmunt Boldu
+ - Rubi Bosch
+ - perera saureu
+ - Moya Sans
+ - Rey Naves
+ - Elias Bosch
+ - Sans Salla
+ - Teixido Marsal
+ - Abat Fallada
+ - Lleonaart Bonell
+ - Ingles Serra
+ - Timoneda Cantons Raimunda Josefa Antonia
+ - Pons vila
+ - Farre Canals
+ - Recasens Farregut
+ - Coral Cabres
+ - Aiguade Duch
+ - Sans Soldevila
+ - Esque Lleonart Cecilia Josepa Francisca
+ - Bofarull Sans
+ - Sans Barbera
+ - Masalles Rey
+ - Relbileriu ?? Estevan
+ - Coll Vallverdu
+ - Cortecans Tarros
+ - Vives Lleonart Jose Antonio Francisco
+ - Perera Baró
+ - Ribera Mirot
+ - Moya Masalles
+ - Moya Aritseta
+ - Sans Rubi
+ - Vidal Francesch
+ - Boldu Ribera
+ - Pau Argiles
+ - Cabrot Ibars
+ - Saureu Naves
+ - Potensa? Naves
+ - Aubach Ribera Jose Alejo Francisco
+ - Pifarre Sans
+ - Rius Onofre
+ - Comenge Serra
+ - Ribera Martin
+ - Lleonart Bonell Soledad Rosa Francisca
+ - Meler Bosch
+ - Vidal Tarros
+ - Naves Mosich
+ - Carnice Fallada
+ - Corbella Moya
+ - Boladeras Roset
+ - Quintana Lleonart Jose Juan Francisco
+ - Fallada Lleonart Rafael Jaime Francisco
+ - Bofarull Odena
+ - Balcells Bota
+ - Sans Farre
+ - Balleste Timoneda Jose Francisco Antonio
+ - Moya Vidal
+ - Boldu Solsona
+ - Escale Safont
+ - Elias Ribera Antonio Pablo Jose
+ - Lleonart Sans Miguel Ramon  Jose
+ - Sans Roset Antonio Ramon Jose
+ - Alsina Vidal
+ - Queralt Pau
+ - Odena Recasens
+ - Sans Tarros
+ - Boladeras Ponts
+ - Aixala Arque
+ - Farregut Vidal
+ - Valcells Pujol
+ - Riberas Ribes
+ - Canela Berga Sebastian Domingo Jose
+ - Moya Perello Antonio Francisco Jose
+ - Riu Esque
+ - Moya Safont
+ - Falladas Carrera
+ - Sans Vidal Dolores Rosa Josefa 
+ - Quintana gansart??
+ - Perera Miquel
+ - Tillo Timoneda Rose Teresa Josefa
+ - Bosch Ginebrosa?
+ - Bellmunt Solsona
+ - blanch Sans
+ - Sans Bove
+ - sola naves
+ - Lleonart Bonell Francisco Miguel Luis
+ - Ribera timoneda Gregorio Jose naeido?
+ - Ponnou  Miro
+ - Gine Vila
+ - Rivera Martin
+ - Pelegri  Perello
+ - Berengue Solsona
+ - Querolt Pau
+ - Vetrain Ribera Esteban Jose Luis
+ - Moya  Perera
+ - Mota Moya
+ - Arquer  Moya
+ - Vidal Queralt
+ - Rullo Vila
+ - Motllo  Tacies
+ - Bofarull  Sans
+ - Coral Cabases
+ - Ill Abat
+ - De Riu Berengue
+ - Sans Farreny
+ - Mora Costa
+ - Canela Berga Bonaventura Concepcio Josefa
+ - Rubio Sans
+ - Bellmunt Esque
+ - Sanfeliu Querolt
+ - Balcells Rota
+ - Fallada Lleonart Paulina Maria Josepa
+ - Viñals Guana?
+ - Bosch Vilella
+ - Cortecans Tarrros
+ - Tillo Timoneda Jaime antonio jose
+ - Moya Perello Francisco Jose Luis
+ - Aubach Ribera Alejo jose luis
+ - Quintana Lleonart Consuelo Antonia Josefa
+ - Cullere Bofarull
+ - Robira Gauch?
+ - Verdes Carreras
+ - Quinatana Perez
+ - Lleonart Sans Maria Juana Josefa
+ - Ribera Elias Jose Ramon Luis
+ - Serra Mansana
+ - Bofarull Safont Jose Francisco Luis
+ - vives lleonart Concepcion Magdalena Josefa
+ - Elias Ribera Maria Antonia Josefa
+ - Elias Ribera Teresa Lluisa
+ - Balleste Timoneda Felicites Antonia Josefa
+ - Rey Gil
+ - Gornudella Fransesch
+ - Lleonart Bonell Carmen Bosch  Josefa
+ - Sans Ribera Antonio Francisco Jose
+ - Cantons Vila
+ - Ribera timoneda Maria Josefa Antonia
+ - Sole Aubach
+ - Sans Vidal Guadalupe Ramona Josefa
+ - Boladeras Teixido
+ - Timoneda Cantons Sense Nom
+ - Lleonart Vidal Teresa Maria
+ - Monfarre Salat
+ - Mata Moya
+ - Verdes Garsaball
+ - Bosch Vilalta
+ - Pau Robinat
+ - Cantons Nabau
+ - Carnice Lleonart Jose Juan Pedro
+ - Boyo Masalles
+ - Ribera Ribes Esteban Miguel Pedro
+ - Moya Aritzetaa
+ - Munfa Nadal
+ - Riu Berengue
+ - Marimon Pont
+ - Garret Pujol
+ - Poch Bove
+ - Naves Sumalla Daniel Ramon Pedro
+ - Vetrian Ribera Antonio Luis Pedro
+ - Tarros Perera
+ - Segura Sole
+ - Robinat Perello
+ - Moya Perello Ramon Jose Pedro
+ - Perello Perello Rosa Francisca Maria
+ - Esque Escola
+ - Nadal Quixal
+ - Figueras sans
+ - Sales Gayas
+ - Ribera Gauch
+ - Coll Aldoma
+ - Ros Badia
+ - Perello Timoneda Dolores Rosa Tecla
+ - Lleonart Sans Miguel Francisco Pedro
+ - Corbella Cots
+ - Hill Abat
+ - Moya Pernau
+ - Alamon Moya
+ - Quintana Lleonart Pio Jose Pedro
+ - Gracia Sumalla Encarnacion Francisca Maria
+ - Aritseta Marsal
+ - Abad Mayoral
+ - Aubach Ribera Dolores Antonia Tecla
+ - Aubach Elies
+ - Montane Salat
+ - Bofarull Safont Pedro Jaime Jose
+ - Fallada Lleonart Rafael Francisco Pedro
+ - Bosch Perera
+ - Riu Bellmunt
+ - Vinals Guana
+ - Torne Borjes
+ - Sans Ribera Josefa Manuela Maria
+ - Ribera Elias Maria Antonia Tecla
+ - Solans Viladrich
+ - Tillo Timoneda Dolores Manuela Tecla
+ - Cullere Huguet
+ - Lleonart Bonell Gerardo Juan Pedro
+ - Balleste Timoneda Dolores Antonia Tecla 
+ - Lleonart Motllo Antonio Jose Pedro
+ - Teixido Gil
+ - Perello Timoneda Jose francisco pedro
+ - Pejoan Sumalla Francisco Sebastian Pedro
+ - Teixido Montero
+ - Timoneda Cantons Domingo Pablo Pedro
+ - Felip Sans
+ - Quintana Peres
+ - Lleonart Vidal Santiago Ramon Ambrosio
+ - Mateu Grabiel
+ - Moya Gotsens
+ - Lleonart Canals Maria Francisca Teresa 
+ - Lleonart Sans Pablo Jose Jaime 
+ - Muntane Salat
+ - Segarra Sans
+ - Perera Clota
+ - Ballo Roca
+ - Quintana Lleonart Juan Miguel Jaime
+ - Sans Vidal Francisco Jose Jaime
+ - Pejoan Sumalla Maria Sebastiana Teresa
+ - Elias Ribera Antonia Maria Teresa
+ - Palaci Sanchez
+ - Santos Duch
+ - Avrera Pach
+ - Perello Timoneda Elvira josefa teresa
+ - Balleste Timoneda Sense Nom
+ - Florejades Vila
+ - Naves Safont
+ - Rubi Miro
+ - Miret Puig
+ - Naves Verdes
+ - Farregut Cantons
+ - Naves Bosch
+ - Naves Perera
+ - Darnell Reñe
+ - Berengue Fallada
+ - Texido Queralt
+ - Moya Duch Rosa Raimunda Francisca
+ - Mullerat Soldevila
+ - Jugla Timoneda
+ - Carascosa Sans
+ - Oms Sans
+ - Sans Vidal Dolores Francisca Josefa
+ - Ciurana Bobe
+ - Nadal Boldu
+ - Ribera Cortes
+ - Claramunt Florexachs
+ - Cabre Balcells
+ - Serra Marti
+ - Quintana Vidal
+ - Cortecans Brado
+ - Balcells Roca
+ - Sans Pifarre
+ - Sans Roset Maria Coloma Francisca
+ - Sans Compte
+ - Duch Balleste
+ - Aiguade Sanfeliu
+ - Balague Masso
+ - Moya Duch Antonio Francisco Ambrosio
+ - Sans Segarra
+ - Sumalla lleonart Teresa Antonia Francisca
+ - Bellmunt Salla
+ - Pau Reñe
+ - Puigdengoles Lleonart Trinidad Serafina Josefa
+ - Ribera Queralt
+ - Pernau Naves
+ - Montero Estadella
+ - Caixal Canela
+ - Motllo Capdevila
+ - Roset Naves
+ - Oliach Roset
+ - Capdevila Perera
+ - Cantons Boneu
+ - Maria Marti
+ - Canals Fontoba
+ - Cervera Fort
+ - Moya Duch Jose Ramon Francisco
+ - Esque Llombart
+ - Lleonart Duch Domingo Francisco Ambrisio
+ - Sumalla Torres Maria del pilar (??) Francisca
+ - Pedros Masso
+ - Moya Riera
+ - Balleste Timoneda Francisca Teresa Maria
+ - de Riu Aubach
+ - Valls Vidal
+ - Naves Borich?
+ - Bardia Vila
+ - Martorell Segarra
+ - Domingo Robinat
+ - Sans Boldu
+ - Balcells Robinat
+ - Canti Salla
+ - Bernat Ribera
+ - Sans Majoral
+ - Camins Moya
+ - Gayroles Farragut
+ - Guach Cullere
+ - Tarros Gayroles
+ - Guach Caniz?
+ - Baget Jaquex??
+ - Fallada Perera
+ - Queral Moya
+ - Boladeres Pont
+ - Perello Quintana
+ - Sugrañes? Ribera
+ - Canals Sans
+ - Teixido Queralt
+ - Sans Muntala
+ - Esque Florejades
+ - Bonet Tillo
+ - Esque Pont
+ - vives lleonart Ramon Jose Francisco
+ - Pont Queralt
+ - Aldoma Gayroles
+ - Puigdengoles Llombart
+ - Carreras "Boldu" Sans
+ - Sanfeliu Boldu
+ - Perera Teixido
+ - Ribera Perello
+ - Pach Bosch
+ - Miquel segarra
+ - Belmunt Soldevila
+ - Boirach Tillo
+ - Calafell Perera
+ - Cabrol Ribera Benita Maria Teresa
+ - Ingles Timoneda
+ - Reñe Florejades
+ - Bernat Segarra
+ - Robinat Pau
+ - Ciurana Bove
+ - Merolaa Moya
+ - Carne Berfada
+ - Marimon Bosch
+ - Miret Gine
+ - Claramunt Florejades
+ - Ingles Perera
+ - Capell Fonte
+ - Gavernet Esque
+ - Tillo Sans
+ - Quintana Camins
+ - Safont Ribes
+ - Moya Duch Ramon Pablo Francisco
+ - Esque Lleonart Raimunda Fancisca Josefa
+ - Nadal Capdevila
+ - Garsaball Gine
+ - Pobill? Garcia
+ - Pau Farregut
+ - Esque Boyrach
+ - Ribera Miret
+ - Sumalla Monne Francisco Ramon Jose
+ - Vidal Motllo
+ - Sumalla Bellmunt Antonio Ramon Jose
+ - Corbella Soldevila
+ - sans sallas
+ - Montero Sans
+ - Negre Vidal
+ - Capdevila Moya
+ - Farragut Bellmunt
+ - sans tudela
+ - Tillo Roset
+ - Aiguade Abat
+ - Perera Robinat
+ - Fallada Cervera
+ - Esque Artigues
+ - Canela Berga Raimunda Teresa Francisca
+ - Felip Tillo
+ - Canela Timoneda Ramon Juan Jose
+ - Batlle Bellmunt
+ - Vives lleonart Miguel jose Francisco
+ - Pau Salat
+ - Guasch Cañiz
+ - Moya Duch Antonio Jose Francisco
+ - Balleste Timoneda Jaime Pedro Francisco
+ - Quintana Arbones
+ - Vilaro Risa
+ - Sans Vidal Bautista Francisco Jose
+ - Boladeras Pont
+ - Sallaa Torrella
+ - Cortacans Abrado
+ - Vantons Vila
+ - Sans Roset Rosa Josefa Teresa
+ - Esque Perello
+ - Vidal Querolt
+ - Puigdengoles lleonat Jose Buenaventura francisco
+ - Baro Benabeu
+ - Pont Gras
+ - Querolt sole
+ - Bellmunt Soldevila
+ - gacueva?? Peralta
+ - Merola Reñe
+ - Rubio Novell
+ - Balcells (Cots) Moya
+ - Torres Bellmun
+ - Reñe Serra
+ - Cabrol Ribera Salbador Jose Francisco
+ - Canti  Salla
+ - Daran sans
+ - Sumalla Monne Rosalia Juana Francisca
+ - Ayguade Duch
+ - Sumalla Pau Jose Francisco Ambrosio
+ - Canela Berga Ramon Juan Francisco
+ - Serra viladrosa?
+ - Canela Timoneda Teresa Maria Francisca
+ - Pages Sarret
+ - Moya Garsaball
+ - Boyrach Tillo
+ - Rubi  Bosch
+ - Bernat Canals
+ - Sumalla Bellmunt Ramon Jose Ambrosio
+ - Vives Lleonart Hipolito Jose Ambrosio
+ - Sans Viladrosa
+ - Albareda Barbera
+ - Moya Aubach
+ - Perera Balleste
+ - Majoral Serra
+ - Pujalt Duch
+ - Moya Duch Jose Antonio Ambrosio
+ - Aldoma Gairoles
+ - Esque Lleonart Maximo Antonio Francisco
+ - Queixal Canela Domingo Jose Francisco
+ - Mata Sans
+ - Saureu Florejades
+ - Morgues Carola
+ - queralt moya
+ - Sans Roset Juan Jose Francisco
+ - Balcells Poch
+ - Duch  Naves
+ - Teixido Ribera
+ - Vidal Salat
+ - Bove Perera
+ - Sans Vidal Felsio? Jaime Francisco
+ - Gras Esque
+ - Naves Boirach
+ - Canela Berga Francisco Antonio Ambrosio
+ - Arque Moya
+ - Esque Llacayo
+ - Baget Jacques
+ - Ayguade Abat
+ - Moya Cullere
+ - Balcells Jordana
+ - Beruat Moya
+ - Sans soldebila
+ - Capdevila Fallada
+ - Pallice Pau
+ - Dalmau Sans
+ - Elias Selma
+ - Royo  Masalles
+ - Sulamma Lleonart Rosalia Antonia Maria
+ - Miro Sole
+ - Abad Majoral
+ - Sumalla Pau Ramona Maria Teresa
+ - Timoneda Bove
+ - Pujol Duch
+ - Aubach Ribera Teresa Josefa Maria
+ - Rivera Mirot
+ - Vives Roset
+ - Balleste Timoneda Francisco Jose Ambrosio
+ - Canals Fontova
+ - Goma Ferre
+ - Esque Lleonart Antonio Francisco Ambrisio
+ - Moragues Carola
+ - Pifarre Boldu
+ - Balcells Cots
+ - Arbos Gabernet
+ - Fallada Piera
+ - Gil Mata
+ - Guardia Vidal
+ - Moya Vallverdu
+ - Bernat Estalella
+ - Mayoral Pifarre
+ - Orrit Canto
+ - Bellmunt Perera
+ - Rodon Duch
+ - Reñe Sans
+ - Ribera Mata
+ - Balcells Balcells
+ - serra Ribera
+ - Perera Pelegri
+ - Sans Lleonart Jaime Jose Juan
+ - Queralt Cabrol
+ - Abril  Segura
+ - Cabre Balague
+ - Jordana Saureu
+ - Sans Vidal Jose Antonio Juan
+ - Mirot? Andreu
+ - Naves Pont
+ - Coll Guasch
+ - Teixido Soldevila
+ - Pelegri Balleste
+ - Esque Bernat
+ - Gotsens Queralt
+ - Sans Miach
+ - Recasens Naves Magdalena Paula Francisca
+ - Bosch Magaroles
+ - Vilaro Vila
+ - Barbera Pifarre
+ - Sans Bosch
+ - Sumalla Torres Dolores Rosa Francisca
+ - Bernat Puig
+ - Miret Perera
+ - Vila Ballverdu
+ - Andreu Farragut
+ - Tarros Sumalla Maria Francisca
+ - Pont Poca
+ - Boladeres Vila
+ - Lleonart Roset Juan Pedro Francisco
+ - Sans Florejades
+ - Gras Teixidor
+ - Cabau Moya
+ - Vidal Balcells
+ - Viladiora?? Herrera
+ - Fallada Ribera
+ - Salla Reñe
+ - Sole  Perello
+ - Canals Boyrach
+ - Esque Masso
+ - Baro Esque
+ - Queralt Andreu
+ - Vidal Viñes
+ - Bofarull Segura
+ - Teixido Recasens
+ - Corbella Pau
+ - Sans Seto
+ - Balleste Pifarre Fanita Maria Francisca
+ - Salat Sans
+ - Quintana Vila
+ - Sumalla Gasull Josefa Teresa Francisca
+ - Cullere Perello
+ - Canals Balasch
+ - Robinat Naves
+ - Bernat Balleste
+ - Pernau Dalmau
+ - Safont Verdes
+ - Perello Cullere
+ - Farre Sole
+ - Pont Orteu
+ - Merola Mastorell
+ - Boladeres Ceto
+ - Bellmunt Roset
+ - Satorra Barbens
+ - Cabrol Boirach
+ - Bellmunt Torremade
+ - Duch albert Francisco Juan
+ - Vila Camins
+ - sans gine
+ - Odena Mida
+ - Safont tudela
+ - Vidal Sala
+ - Duch Tort
+ - Argiles Naves
+ - Balague Cantons
+ - Gavernet pujol
+ - Pujol Coll
+ - Moya Bellmunt
+ - Pau Gort??
+ - Moya Prats
+ - Aubach Ribera Teresa Maria Francisca
+ - Bellmunt Cabau
+ - Felip  Gotsens
+ - Massalles Ribera
+ - Farragut Balcells
+ - Gras Coll
+ - Aiguade Segues
+ - Sans Arbos Miguel Francisco Juan
+ - Verdes Safont
+ - Moya Gaya Rosendo Jose Francisco
+ - Salat Ribera
+ - Fallada Canals
+ - Abat Capdevila
+ - Esque Argiles
+ - Sumalla Salla Buenaventura Antonia Francisca
+ - Roset Bellmunt
+ - Duch Rodon
+ - Capdevila Gelonch
+ - Miret Pau
+ - Ribes Monells
+ - Lleonart duch Jose Antonio Francisco
+ - Vila Audreu
+ - Capdevila Queralt
+ - Vidal Pont
+ - Gotsens Soldevila
+ - Querolt Rubi
+ - Vidal Cots
+ - Serret Riu
+ - Esque Capdevila
+ - Sans Lleonart Jose Antonio Mariano
+ - Monells Boneu
+ - Turruella Enseñat
+ - Vila Vidal
+ - Pedros  Gotsens?
+ - Naves Capdevila
+ - Tillo Bellmunt
+ - Perera Carne
+ - Fallada Sanfeliu
+ - Balcells Boladeres
+ - Farregut Sumalla Antonio Geronimo Gaime
+ - Perera Viladrosa
+ - Baget Suphigueu??
+ - Bilalta Esque
+ - Boldu Safont
+ - Pau Cots
+ - Safont Vidal
+ - Canals Torres
+ - Sans Cabau
+ - Pau Cantons
+ - Esque Lluis
+ - Tacies Arbos
+ - Guaseto? Alsina
+ - Ribes Quintana
+ - Pau Pedros
+ - Boyrach Deidi
+ - Sans Balleste
+ - Querol Vidal
+ - Gayroles Camins
+ - Selma Sans
+ - Coll Cortacans
+ - Sans Timoneda Dolores Rosa Francisca
+ - Cabau Vidal
+ - Baro Nicolau
+ - Bernat Nogues
+ - Vila Roset
+ - Sans Vidal Maria Josefa Francisca
+ - Naves Angles
+ - Balcells Canals
+ - Ribera Bota
+ - Saureu Mida
+ - Sans Deidi
+ - Maso Vives
+ - Segarra Vila
+ - Boldu Boladeres
+ - Queral Andreu
+ - Bellmunt Tillo
+ - Rubi Gine
+ - Serra Sumalla Josefa Maria Rosa
+ - Ribes Balcells
+ - Motllo Canals
+ - Rius Esque
+ - Teixido Querolt
+ - Gras Batlle
+ - Ribera Roset
+ - Naves Balcells
+ - Miret Safont
+ - Pujol Perello
+ - Carrera Masalles
+ - Monells Miret
+ - Merola Gine
+ - Perello Perello Rosa Carmen Francisca
+ - Sole Perello
+ - Majoral Pifarre
+ - Timoneda Perera Francisco Jose Juan
+ - Tarros Nadal
+ - Lleonart Gavernet Ildefonso Ramon Francisco
+ - Lleonart Roset Evotir? Francisca
+ - Querolt Balcells
+ - Sans Ceto
+ - Ribera Timoneda Maria Raimunda Francisca
+ - Capdevila Saureu
+ - Capdevila Cots
+ - Cots Vila
+ - Miquel Boldu
+ - Perello Ribera
+ - Vilalta Garsavall
+ - Vila Verdu
+ - Queralt Calvet
+ - Gil Mota
+ - Viladrosa Herrera
+ - Sans Guasch
+ - Vila Fallada
+ - Sumalla Gasull Ramon Francisco
+ - Coll Santa Euteria?
+ - tarros Pujol
+ - Aubach Ribera Ramon Jose Franciso
+ - Bellmunt Queralt
+ - Esque Valles
+ - Sumalla Duch Jose Francisco
+ - Sans Borch?
+ - Lamich?? Casarayas
+ - Naves Selma
+ - Lleonart Sans Rosa antonia Francisca
+ - Palou Torrades
+ - Ivars Teixido
+ - Francesch Pla
+ - Gras Ribes
+ - Cabau Sole
+ - Vidal Robinat
+ - Ribas Monells
+ - Vidal Balcells Maria Raimunda Francisca
+ - Odena Meda
+ - Sotorra Barbens
+ - Canals Boirach
+ - Naves Tillo
+ - Tillo Aritseta
+ - Ribera Torrens
+ - Turnella Euseuat?
+ - Rodes Nobell
+ - Masalles Ribera
+ - Vila Andreu
+ - Moya Reñe Francisco jose juan
+ - Bernat Perello
+ - Sans Llahonart? Antonio Francisco
+ - Tarros Sumalla Concepcion Francisca
+ - Monpeo Roca
+ - Sans Roig
+ - Capdevila Querolt
+ - Falip Gotsens
+ - Sobrepere Boixadors
+ - Puigdengoles Font
+ - Tarros Moya
+ - Sumalla Salla Dominga Engracia Rosa
+ - Farragut Sumalla Dolores Francisca
+ - Ribera Mota
+ - Ganjarol? Mir
+ - Cabrou? Pasdell?
+ - Caixal Miguel
+ - Sans Nogue
+ - Arbos Gavernet
+ - Espinet Pla
+ - Llehonart? Gavernet Miguel Ildefonso Francisco
+ - Cabrol Boyrach
+ - Guasch Alsina
+ - Llopes Sans
+ - Francesch Pal
+ - Sans Lleonart  Antonio Jaime Yesebro??
+ - Perello Perello Rosa Camen Francisca
+ - Pont Carbones
+ - Saureu Meda
+ - Selma Domingo
+ - Sans Roselu?
+ - Lleonart Duch Dolores Josefa Francisca
+ - Vila Rodon
+ - Sans Catala
+ - Vila Monell
+ - Sans Floreyachs?
+ - Elias Robinat
+ - Farregut Balcels
+ - Lleonart Roset Juan Ildefonso francisco
+ - Sans Daidi
+ - Boladeras Vila
+ - Sans Oliach
+ - Verdes Barbens
+ - Renñe Sans
+ - Puigdengoles Fonte
+ - Cullere Vilamajo
+ - Lleonart Sans Miguel Jose Francisco
+ - Queixal Canela Ramon Francisco
+ - Sans Vidal Francisco Juan
+ - Querol Balcells
+ - Carnet Cots
+ - Lleonart Gavernet Ildefonso Pablo Juan
+ - Sans Lleonart Ramon Francisco
+ - Rosell Sole
+ - Ribera Timoneda Estevan Camilo Francisco
+ - Pedro Pujol
+ - Gayeroles Camins
+ - Miro Mateu
+ - Andreu Monells
+ - Perello Perello Antonio Jose Francisco
+ - Salat Arbos
+ - Morera Segura
+ - Serra Nadal
+ - Cots Bove
+ - Llaner Quintana
+ - Gaujast? Mir
+ - Vila Aixala
+ - Sans Roch
+ - Pons Jordana
+ - Sumalla Gasull Teodoro Francisco
+ - Sans Lopes
+ - Incognito teresa rosa
+ - Ribera Rota
+ - Carne Cots
+ - Ribera Torus
+ - Cabau Codina
+ - Vidal Balcells Rosa Juana Francisca
+ - Salat Cantons
+ - Sans Reñe
+ - Bisiana Sans
+ - Reñe Sumalla Magdalena Paula Francisca
+ - Puigdengoles Gonte
+ - Lleonart Lleonart Dolores Francisca Rosa
+ - Pont Arbones
+ - Sumalla Rius Jose Antonio Francisco
+ - Lleonart Duch Antonio Jose Francisco
+ - Tarros Sumalla Rosa Raymunda
+ - Timoneda Perera Raimunda Josefa Francisca
+ - Mollo Canals
+ - Llopir Sans
+ - Miguel Boldu
+ - Naves Castillo
+ - Lleonart Gavernet Teresa Francisca
+ - Perello Perello Antonio Magin Francisco
+ - Rosell Serret
+ - Naves Daran
+ - Rivela cortes
+ - Bosch Florejats
+ - Esque Ortiques
+ - Cullere Bilamajo
+ - Rernat Balleste
+ - Yessa? Vila
+ - Capdevila Querol
+ - Cassarara?? Sans
+ - Ribera Querolt
+ - Esque Llombart Pedro Jayme Buenaventura Jose
+ - Gayroles Quintana
+ - Sans Queral
+ - Safont Masso
+ - Aubach Ribera Francisco Antonio Jose
+ - Gotsens Balleste
+ - Queixal Canela Raymunda Teresa Francisca
+ - Queixal Canela Sebastian Pablo Francisco
+ - Marsal Balcells
+ - Roset Tillo
+ - Sans Lopez
+ - Esque Belles
+ - Giral Arrufat
+ - Ribera Timoneda Dolores Raymunda Francisca
+ - Segarra Montserrat
+ - Riu Piera
+ - Sumalla Gasull Francisco Jose Juan
+ - Segura Pernau
+ - Naves Castello
+ - Viciana Sans
+ - Sumalla Rius Antonio Geronimo Francisco
+ - Moya Moya
+ - Pau Farragut
+ - Pont Salla
+ - gayart Mir
+ - Salat Bellmunt
+ - Sans Pane?
+ - Reñe Sumalla Tecla Francisca Josefa
+ - Carne Castells
+ - Robinat Julia
+ - Esqie Pont
+ - Aubah Ribera
+ - cervera Font
+ - Teixido queral
+ - Vilano Vila
+ - Balcells Poca
+ - gayroles farregut
+ - vidal tillo
+ - Boyrach  Tillo
+ - sans vidal Rosa Raymunda Francisca
+ - lleonart duch Ramon Geronimo Francisco
+ - Rubio  Novell
+ - yugles Perera
+ - Marti Palau
+ - Llopis Sans
+ - Lleonart Lleonart Florentina Josefa Francisca
+ - Sans Peres
+ - Moya Duch
+ - Queixal Canela Estevan Francisco Parlos
+ - Pallerola Tapies
+ - Vila Ribera
+ - Duch Querol
+ - De Riu Bomet
+ - Guasch Cullere
+ - Perello Monila
+ - Ribera Balcells
+ - gayroles carne
+ - Sumalla Esque Engracia Maria Josefa
+ - Lleonart Sans Antonio Jose Francisco
+ - Montero Clave
+ - Vidal Balcells Ramon Jose Lorenzo
+ - Goma Masso
+ - Gassol Perello
+ - Marti Saragosa
+ - Salat Masalles
+ - Aubach Argiles
+ - Cervera Tort
+ - Sumalla Gasull Miguel Modesto Jose
+ - Sumalla Recasens  Maria Antonia Josefa
+ - Lleonart Gavernet Concepcion josefa 
+ - Coll Cortecanns
+ - Gavernet Moya
+ - Cots Bobe
+ - Sumalla Rius Sebastian Ramon Francisco
+ - Poch Deidi
+ - Sans Guash
+ - Garsavall Palanca
+ - Safont Canals
+ - Perello Perello Antonio Jose Magin
+ - Naves Esque
+ - Salla Torrella
+ - Gayroles Siurana
+ - carascosa¿ Sans
+ - Esque Balcells
+ - Timoneda Perera Francisca Teresa Maria
+ - Daruell Reñe
+ - Monells Guasch
+ - Lleonart Sans Brigida Josefa Francisca
+ - Siurana Bobe
+ - Sumalla Torres Cosme Jose Francisco
+ - Rosello Capell
+ - Lleonart Duch Basilio? Francisco
+ - Sans Timoneda Pedro Juan Francisco
+ - Toset Tillo
+ - Sumalla Esque Jose Ramon Francisco
+ - Sumalla Bellmunt Jaime Jose Juan
+ - Sans Gotsens
+ - Balcells Boladeras
+ - Sumalla Recasens Ramon Mateo Francisco
+ - Miret Carnice
+ - Baro Pocho
+ - Cabre Esque
+ - Romna Marro
+ - Moya Tornet
+ - Timoneda Sans Dolores Raymunda Francisca
+ - Cullere Argiles
+ - Caixal Canela Luisa Francisca Maria
+ - Naves Ricart
+ - De Riu Bonet
+ - Bobe Perera
+ - Solanes Perello
+ - Francisco Ambrosio
+ - Reñe Sumalla Paula Antonia Francisca
+ - Tillo  Bellmunt
+ - Cervera Ivars
+ - Aritseta Roset
+ - Puigdengoles Fonte?
+ - Garsavall Ceto
+ - Duelo Querolt
+ - Miguel Segarra
+ - Pau Faragut
+ - Moya Duch Concepcion Raimunda Francisca
+ - Argiles Moya
+ - Canela Timoneda Sebastian Francisco Jose
+ - Bobe Pau
+ - Sumalla Torres Antonia Rosa Josefa
+ - Gayroles Ciurana 
+ - Elias Celma
+ - Lleonart Sans Rafael Anastasio Francisco
+ - Sans Timoneda Pablo Jose Ambrosio
+ - Sans Montala
+ - Carrascosa Sans
+ - Sole Pou
+ - Cabrol Ribera
+ - Sans Vidal Jose Antonio Ambrosio
+ - Duch  Cots
+ - Mones? Sans
+ - Capdevila Nadal
+ - Gayroles Garregut
+ - De riu Naves
+ - Perello Perello Ramon Pablo Ambrosio
+ - Capdevila Tapies
+ - Safont Menso
+ - Sumalla Recasens Emilia Antonia Teresa
+ - Canela Timoneda Cecilia Raymunda Francisca
+ - Sumalla Esque Jose Antonio Francisco
+ - Vidal Aumello
+ - Garsavall Gine
+ - Careras Sans
+ - Marsal Cullere
+ - Lleonart Duch Juan Francisco Ambrosio
+ - Baro Poch
+ - Bosch Ginebrosa Jose Geronimo Ambrosio
+ - Fallada Rey 
+ - Cullere Coll
+ - Arufat Vidal
+ - Miach Roset
+ - Cabre Balcells 
+ - Sumalla forcat Jose Ambrosio
+ - Prat Gras
+ - Sans Timoneda Antonio Francisco Ambrosio
+ - Sans soler
+ - Moya Riva
+ - Lleonart Sans Maria Teresa Francisca
+ - Sumalla Bellmunt Teresa Raymunda Francisca
+ - Guarch Cullere
+ - Perello Balcells
+ - Timoneda Sans Jose Pablo Francisco
+ - Serra Vila
+ - Aubach  Perello
+ - Montllo Capdevila
+ - Mones?? Pau
+ - Domingo Torres
+ - Safont Canales
+ - Sans Vidal Ramon Francisco Antonio
+ - Canela Timoneda Josefa Raymunda Francisca
+ - Moret Naves
+ - Sumalla Recasens Dolores Juana Francisca
+ - Sumalla Recasens Maria Ramona Francisca
+ - Sumalla Lleonart Juan Jose Ambrosio
+ - Bugles? Perera
+ - Duch Querolt
+ - Bonet Safont
+ - Perello Perello Teresa Francisca
+ - Montero Estalella?
+ - Claramunt Pernau
+ - Sumalla Esque Ramon Jaime Francisco
+ - Ivars Esque
+ - Jose Jose Francisco
+ - Sumalla Bellmunt Maria Raimunda Francisca 
+ - Lleonart Sans Paula Margarita Francisca
+ - Sumalla Gine Encarnacion Teresa Francisca
+ - Aritseta Lloret
+ - Quintana Arbonés
+ - Gaya Sans
+ - Torres Bellmunt
+ - Sans Timoneda Maria Josefa Francisca
+ - Reey Vila
+ - Canals Boldu
+ - Perello Alsina
+ - Sans i Balcells
+ - Moya Gaya
+ - Meya Vellverdu
+ - Canela Cots Ramon Joan Francisco
+ - Sumalla Surrull Josepa Manuela Francisca
+ - Baró Esque
+ - Sans Felip
+ - Rogue Serra
+ - Rosell  Gavalda
+ - Cots Gaya
+ - Boirach Daidi
+ - Baget Sesplugues
+ - Montero Boldu
+ - Boladeras Seto
+ - Pau Sort
+ - Masalles Rodon
+ - Sans Pujol
+ - Sans Lleonart Miquel Joseph Francisco
+ - Salla Carne
+ - Sans Vidal
+ - Safon Verdes
+ - Pedros Gotsens
+ - Ribera Timoneda
+ - Masso Bangue
+ - Sans Orteu
+ - Bellmunt Safont
+ - Soles Cots
+ - Ribes Vergue
+ - Ayguade Segues
+ - Castro Batiste
+ - Farregut Sumalla Ramon Anton Joan
+ - Sumalla Salla Pau Jaume Francisco
+ - Espina Masalles
+ - Fallada Casals
+ - Albareda Cabau
+ - Felip Gotsens
+ - Pau Naves
+ - Odena Boladeres
+ - Esque Llavore
+ - Sans Xifre
+ - Farregut Saureu
+ - Sans Lleonart Dolors Tresa Francisca
+ - Querolt Perello
+ - Andreu Farregut
+ - Aubach Ribera
+ - Naves Robinat
+ - Coll Sans
+ - Canals Ribe
+ - Perera Arbos
+ - Pau Lluis
+ - Calve Bosch
+ - Negre Sala
+ - Balague Perera
+ - Puigdengoles Balleste
+ - Naves Pifarre
+ - Sans Timoneda
+ - Corbella Miret
+ - Timoneda Perera
+ - Canela Serrano Joseph Anton Francisco
+ - Moya Reñe
+ - Ribera Cetó
+ - Ribera Forns
+ - Sans Fallada
+ - Merola Martorell
+ - Abat Querolt
+ - Pau Safont
+ - Balleste Pifarre
+ - Aubach Nadal
+ - Sans Lleonart Isidro Ramon  Francisco
+ - SantFeliu Quintana
+ - Llovera Quintana
+ - Serra Sumalla Antonia Josepha Francisca
+ - Soldevila Calvés
+ - Queralt Vidal
+ - Cortecans Sans
+ - Florejades Recasens
+ - Recasens Naves
+ - Carnice Serra
+ - Naves Ingles
+ - Farregut Balcells
+ - Alsina Queralt
+ - Safont Cullere
+ - Sans Arbos
+ - Moya Ballberdu
+ - Tarros Sumalla Josepha Teresa Rosa
+ - Duch Tor
+ - Fallada Florejades
+ - Tapies Tillo
+ - Duch Albert
+ - Sumalla Gasull  Rosa Sibina Francisca
+ - Abil Segura
+ - Pau Fort?
+ - Lleonart Sans Joseph Francisco 
+ - Lleonart Roset Rayminda Rosa Francisca
+ - Boirach Deidi
+ - Pere Nadal
+ - Perejuan Sumalla Dolores Teresa Jacoba
+ - Pifarre Duch
+ - Cabau Bellmunt
+ - Tarros Duch
+ - Tilló Duch
+ - Ill  Boldu
+ - Sans Sabado
+ - Ximenos Gros
+ - Pifarre Pifarre
+ - Canela Aldoma Ramona teresa jacobo
+ - Canela Aldoma Ramona
+ - Arbos Nadal
+ - Roset Garsavall
+ - Serra Aubach
+ - Pane Fallada
+ - Miret Florejades
+ - Teixido Bofarull
+ - Sans Aixala?
+ - Botanch Cabrol
