@@ -41,7 +41,9 @@ He decidit crear un fitxer per localitat per que siguin menys pesats. i per ara 
 Per accedir directament als registres i mentres no cambio la URL pots fer-ho des d'aquest [link](https://arxiuenlinia.ahat.cat/FonsDocumentals)
 
 Llibres revisats fins ara:
-- Arbeca
+- Arbeca Baptismes
+  - [01/11/1851 25/12/1854](https://arxiuenlinia.ahat.cat/Document/0000019912)
+  - [05/01/1855 17/02/1863](https://arxiuenlinia.ahat.cat/Document/0000019913)
   - [20/02/1863 01/01/1867](https://arxiuenlinia.ahat.cat/Document/0000019910)
   - [01/01/1867 21/06/1885](https://arxiuenlinia.ahat.cat/Document/0000019911)
   - [26/06/1885 25/06/1893](https://arxiuenlinia.ahat.cat/Document/0000019886)
