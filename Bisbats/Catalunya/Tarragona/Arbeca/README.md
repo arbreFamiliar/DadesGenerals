@@ -32,7 +32,14 @@
  - Albareda Cabau
  - Albareda Fallada
  - Albareda Pau
- - Aldoma Elias
+ - Aldoma Elias Antonia Rosa Francisca
+ - Aldoma Elias Joaquim Jose Luis
+ - Aldoma Elias Joaquim Josep Francisco
+ - Aldoma Elias Maria Matilde Josefa
+ - Aldoma Elias Pedro Juan Jose
+ - Aldoma Elias Ramona Josefa Antonia
+ - Aldoma Elias Rosa Antonia Francisca
+ - Aldoma Elias Sofia Dolores Francisca
  - Aldoma Gairoles
  - Aldoma Gayroles
  - Aldoma Ribera
@@ -47,6 +54,7 @@
  - Alsina Sans
  - Alsina Vidal
  - Altarila Cabau
+ - Altisent Boldu
  - Alzina moné
  - Alzina Monne
  - Alzina Sans
@@ -85,6 +93,7 @@
  - Aritseta Lloret
  - Aritseta Marsal
  - Aritseta Roset
+ - Aritseta Rubira
  - Aritzeta Marsal
  - Armengol Ciurana
  - Armengol Pau
@@ -132,7 +141,15 @@
  - Aubach Ribera Ramon Jose Franciso
  - Aubach Ribera Teresa Josefa Maria
  - Aubach Ribera Teresa Maria Francisca
- - Aubach Sans
+ - Aubach Sans Bonaventura Teresa Josepa
+ - Aubach Sans Bonaventura Tresa Francisca
+ - Aubach Sans Federico Jaime Francisco
+ - Aubach Sans Francisca Tecla
+ - Aubach Sans Francisco Jose Antonio
+ - Aubach Sans Jaume Josep Francisco
+ - Aubach Sans Juan Jose Antonio
+ - Aubach Sans Maria Tecla
+ - Aubach Sans Ramon Blas Jose
  - Aubah Ribera
  - Avrera Pach
  - Ayguade Abat
@@ -168,9 +185,12 @@
  - Balcells Boldu
  - Balcells Bonastre
  - Balcells Bota
- - Balcells Cabrol
  - Balcells Cabrol Jaime Jose Antonio
+ - Balcells Cabrol Jose Francisco
+ - Balcells Cabrol Teresa Maria Francisca
+ - Balcells Cabrol Victor Lorenzo Jaime
  - Balcells Canals
+ - Balcells Cervera
  - Balcells Cortada
  - Balcells Cots
  - Balcells Fallada
@@ -194,8 +214,10 @@
  - Balleste Capdevila
  - Balleste Esque
  - Balleste Mirot
- - Balleste Pifarre
  - Balleste Pifarre Fanita Maria Francisca
+ - Balleste Pifarre Francisca Dominga
+ - Balleste Pifarre Josep Anton Francisco
+ - Balleste Pifarre Magi Joan Francisco
  - Balleste Sauch
  - Balleste Timoneda Dolores Antonia Tecla 
  - Balleste Timoneda Felicites Antonia Josefa
@@ -214,6 +236,7 @@
  - Barbens Pena
  - Barbens Pera
  - Barbens Tor
+ - Barbens Tort
  - Barbens Vidal
  - Barbens Vila
  - Barbens Vilaro
@@ -239,6 +262,7 @@
  - Batlle Mirot
  - Batlle Sans
  - Bautista Carbonell
+ - Bellaster Serrá
  - Belllmunt Palanca
  - Bellmun Cartaña
  - Bellmunt Alsina
@@ -252,8 +276,9 @@
  - Bellmunt Cartaña
  - Bellmunt Castaña
  - Bellmunt Castañà
- - Bellmunt Catala
+ - Bellmunt Catala Pau Tonet Bonaventura
  - Bellmunt Esque
+ - Bellmunt Fenat?
  - Bellmunt Gaya
  - Bellmunt Gaya Josefa Raymunda Jacoba
  - Bellmunt Gaya Raimuna Rosa Maria
@@ -267,7 +292,13 @@
  - Bellmunt Planes
  - Bellmunt Pont
  - Bellmunt Queralt
- - Bellmunt Rius
+ - Bellmunt Rius Anton Salvador Domingo
+ - Bellmunt Rius Josep Jaume Anton
+ - Bellmunt Rius Josep Jaume Domingo
+ - Bellmunt Rius Maria Antonia Cecilia
+ - Bellmunt Rius Raimunda Antonia Josepa
+ - Bellmunt Rius Ramon Jaume Joan
+ - Bellmunt Rius Rosa Maria Agustina
  - Bellmunt Roset
  - Bellmunt Safont
  - Bellmunt Salla
@@ -319,9 +350,13 @@
  - Bofarull  Sans
  - Bofarull Galito
  - Bofarull Odena
- - Bofarull Safont
+ - Bofarull Safont Antonio Francisco Jaime
+ - Bofarull Safont Dolores Maria Josefa
+ - Bofarull Safont Fernando Jose Jaime
+ - Bofarull Safont Francisco Antonio Jaime
  - Bofarull Safont Jose Francisco Luis
  - Bofarull Safont Josefa Maria Jacoba
+ - Bofarull Safont Magdalena Cecilia Jacoba
  - Bofarull Safont Pedro Jaime Jose
  - Bofarull Safont Rosa Maria Jacoba
  - Bofarull Sans
@@ -362,8 +397,10 @@
  - Boldu Carne
  - Boldu Fallada
  - Boldu Gras
+ - Boldu Minguet
  - Boldu Monte
  - Boldu Perello
+ - Boldu Pujol
  - Boldu Quintana
  - Boldu Ribera
  - Boldu Safont
@@ -468,6 +505,7 @@
  - Camins Naves
  - Camins Pujol
  - Camins Queralt
+ - Camins Saureu
  - Canadell Bove
  - Canals Balasch
  - Canals Boirach
@@ -526,7 +564,15 @@
  - Canti Torne
  - Cantí Tort
  - Cantons  canfi?
- - Cantons Boneu
+ - Cantons Boneu ??? Josefa Francisca
+ - Cantons Boneu Dolores Josepa Francisca
+ - Cantons Boneu Domingo Agusti Francisco
+ - Cantons Boneu Fransisco Josep Joan
+ - Cantons Boneu Jose Pau 
+ - Cantons Boneu Juan Bautista Luis, Francisco
+ - Cantons Boneu Maria Francisca Filomena
+ - Cantons Boneu Mariana Josepha Francisca
+ - Cantons Boneu Rosa Josefa Francisca
  - Cantons Cami
  - Cantons Canti
  - Cantons Marsal
@@ -544,7 +590,12 @@
  - Capdevila Esque
  - Capdevila Fallada
  - Capdevila Farre
- - Capdevila Felip
+ - Capdevila Felip Carlos Francisco José
+ - Capdevila Felip Concepcion Ramona Josefa
+ - Capdevila Felip Jose Antonio Ambrosio
+ - Capdevila Felip Jose Antonio Francisco
+ - Capdevila Felip Pedro Ramón Jose
+ - Capdevila Felip Teresa Maria Francisca
  - Capdevila Gelonch
  - Capdevila Gelong
  - Capdevila Jovells
@@ -579,12 +630,14 @@
  - Carne Coll
  - Carne Cots
  - Carne Guasch
+ - Carné Guasch
  - Carne Pau
  - Carne Perera
  - Carne Sans
  - Carnet Cots
  - Carnice Fallada
  - Carnice Lleonart Jose Juan Pedro
+ - Carnice Ribera
  - Carnice Salat
  - Carnice Serra
  - Carnise Serra
@@ -605,6 +658,7 @@
  - Castro Batiste
  - Castro Millo
  - Castro Queralt
+ - Castro Sans
  - Castro Ximenes
  - Castro Ximenos
  - Catala Guasch
@@ -633,6 +687,7 @@
  - Clavé Bosch
  - Clave Esque
  - Clave Florejades
+ - Clave Navau
  - Climent vendala
  - Cobau Perera
  - Coll Aldoma
@@ -644,6 +699,7 @@
  - Coll Rovinat
  - Coll Sans
  - Coll Santa Euteria?
+ - Coll Sumalla Anton
  - Coll Sumalla Jaume Toset Thomas
  - Coll Vallverdu
  - Coll Vidal
@@ -663,6 +719,7 @@
  - Corbella Soldevila
  - Cornudella Francesch
  - Cornuella Frabcesh
+ - Corral Lluis
  - Cortacans Abrado
  - Cortacans Moya
  - Cortacans Naves
@@ -689,11 +746,14 @@
  - Cots Pons
  - Cots Pont
  - Cots Queralt
+ - Cots Ribera
  - Cots Ribes
  - Cots Sans
  - Cots Segarra
+ - Cots Serret
  - Cots Vila
  - Cots Xifre
+ - Cots Xopeto?
  - Cullera sole
  - Cullere Argiles
  - Cullere Balleste
@@ -721,6 +781,7 @@
  - Daidi Dena
  - Daidi Odena
  - Daidi Sarret
+ - Daidi Serret
  - Dalmau  tacies?
  - Dalmau Bea
  - Dalmau Sans
@@ -747,7 +808,6 @@
  - Domingo Torres
  - Dones Farragut
  - Dotou Vidal
- - Duc Cots
  - Duc Tor
  - Duch  Cots
  - Duch  Naves
@@ -766,6 +826,8 @@
  - Duch Cortecans
  - Duch Coti
  - Duch Cots
+ - Duch Cots Lucia Maria Antonia
+ - Duch Cots Paula Maria Rosa
  - Duch Creus
  - Duch Motllo
  - Duch nadal
@@ -816,7 +878,7 @@
  - escale perello
  - Escale Safont
  - Escale Sans
- - Escale Sinca
+ - Escale Sinca Rosa Ursula Maria
  - Escale Tillo
  - Espina Fallada
  - Espina i Carbonell
@@ -827,6 +889,7 @@
  - Esque Artigues
  - Esque Balcells
  - Esque Balles
+ - Esque Bardina
  - Esque Belles
  - Esque Bernat
  - Esque Boyrach
@@ -872,7 +935,8 @@
  - Esque Ortiques
  - Esque Pau
  - Esque Perello
- - Esque Perera
+ - Esque Perera Maria Francisca Tecla
+ - Esque Perera Ramon Josep Agusti
  - Esque Pons
  - Esque Pont
  - Esque Puig
@@ -880,18 +944,21 @@
  - Esque ribera
  - Esqué Ribera
  - Esque Roca
+ - Esque Roset
  - Esque Salto
  - Esque Sans
  - Esque Saureu
  - Esque Siso
  - Esque Sole
  - Esque Urzay
- - Esque Valles
+ - Esque Valles Josep Anton Francisco
+ - Esque Valles Ramon Pedro Francisco
  - Falip Gotsens
  - Fallada Canals
  - Fallada Carrera
  - Fallada Casals
  - Fallada Cervera
+ - Fallada Coll
  - Fallada Florejachs
  - Fallada Florejades
  - Fallada Gairoles
@@ -967,6 +1034,7 @@
  - Florejades Vila
  - Florejades? Reñe
  - Folch Serra
+ - Font Sans
  - Fonte Cabau
  - Fonte Capell
  - Fonté Palau
@@ -990,10 +1058,12 @@
  - Ganjarol? Mir
  - Garret Gil
  - Garret Pujol
+ - Garriga Pollina
  - Garriga Querolt
  - Garsaball Gine
  - Garsavall Baella
- - Garsavall Balcells
+ - Garsavall Balcells Francisco Juan Jose
+ - Garsavall Balcells Jose Juan Jaime
  - Garsavall Ceto
  - Garsavall Gine
  - Garsavall Palanca
@@ -1012,7 +1082,13 @@
  - Gaya Bonell
  - gaya Coll
  - Gaya Costa
- - Gaya Duch
+ - Gaya Duch Antonia Dolores Teresa
+ - Gaya Duch Antonio Jose Jaime
+ - Gaya Duch Dolores Jacoba
+ - Gaya Duch Geronimo Jose Jaime
+ - Gaya Duch Josefa Jacoba
+ - Gaya Duch Magdalena Juana Teresa
+ - Gaya Duch Maria Joila? Jacoba
  - Gaya Elies
  - Gaya Nadal
  - Gaya Roig
@@ -1042,6 +1118,7 @@
  - Gayroles Sans
  - Gayroles Siurana
  - Gayroles? Fallada
+ - Gene Merola
  - Gene Robinat
  - Genoe Sans
  - Gil Boladeras
@@ -1127,9 +1204,9 @@
  - Ill Boldú
  - Ill Sans
  - Incognit
+ - Incognita
  - Incognito
  - Incognito (Moya Sans + Moya Gaya)
- - Incognito (Sans Moya + Canals)
  - Incognito Farragut
  - Incognito teresa rosa
  - Ingles Boirach
@@ -1141,6 +1218,7 @@
  - Ingles Serra
  - Ingles Timoneda
  - Ivars Esque
+ - Ivars Sans 
  - Ivars Teixido
  - Janavall? Balcells
  - Janet Canela Maria Teresa Rosa
@@ -1153,6 +1231,7 @@
  - Jugla Timoneda
  - Lamich?? Casarayas
  - latorra Cols
+ - Limes Armandes
  - Llahonart Sans Ramon Anton Josep
  - Llaner Quintana
  - Llaonart Boirach
@@ -1177,6 +1256,7 @@
  - Lleonar Masalles Manuela Tecla Maria
  - Lleonart Balcells Anton Joseph Francisco
  - Lleonart Balcells Joseph Anton Francisco
+ - Lleonart Balcells Manuel
  - Lleonart Bonell
  - Lleonart Bonell Carmen Bosch  Josefa
  - Lleonart Bonell Francisco Miguel Luis
@@ -1234,6 +1314,7 @@
  - Lleonart Vidal Teresa Maria
  - llevant duran
  - Llobera Quintana
+ - Llobet Clavé
  - Llobet Rullat
  - Llombar Esque
  - llombart esque
@@ -1362,6 +1443,7 @@
  - Miro Mateu
  - Miro Miquel
  - Miro Perello
+ - Miró Perello
  - Miro Queralt
  - Miro Querol
  - Miro Querolt
@@ -1423,16 +1505,22 @@
  - Morlans Queralt
  - Mota Esque
  - Mota Moya
+ - Mota Sans
  - Motllo  Tacies
  - Motllo Canals
  - Motllo Capdevila
- - Motllo Duch
+ - Motllo Duch Antonia Rosa Maria
+ - Motllo Duch Antonio Manuel Jose
+ - Motllo Duch Eulalia Felicitas Teresa
+ - Motllo Duch Jose Antonio Luis
+ - Motllo Duch Virginia Dolores Luisa
  - Motllo Fontova
  - Motllo Fotova
  - Motllo Mir
  - Motllo Sans
  - Motllo sole
  - Motllo Tacies
+ - Motllo Talarn
  - Moyá  Miró
  - Moya  Perera
  - Moya Abad
@@ -1573,6 +1661,7 @@
  - Nadal Boldu
  - Nadal Caixal
  - Nadal Capdevila
+ - Nadal Cuca
  - Nadal Duch
  - Nadal Esque
  - Nadal o Reñe / Queyal?
@@ -1637,6 +1726,7 @@
  - Naves Solanes
  - Naves Sumalla Daniel Ramon Pedro
  - Naves Tillo
+ - Naves Timoneda
  - Naves Vendes
  - Naves Verdes
  - Naves Vila
@@ -1679,6 +1769,7 @@
  - Panades? Mestres
  - Pane Fallada
  - Pasto Borras
+ - Pasto Pau
  - Pau Argiles
  - Pau Badia
  - Pau Bardia
@@ -1712,10 +1803,12 @@
  - Pau Sans
  - Pau Serra
  - Pau Sivia
+ - Pau Soler
  - Pau Sort
  - Pau Sumalla Baptiste Joan Josep
  - Pau Sumalla Brigida josepa Agustina
  - Pau Sumalla Jaume Geroni Agusti
+ - Pau Thomás
  - Pau Tort
  - Pau Tort 
  - Pau Trullols
@@ -1729,6 +1822,7 @@
  - Pedros Esque
  - Pedros Gotsens
  - Pedros Masso
+ - Pedros Santfeliu
  - Pejoan Sumalla Antonio Lorenzo Luis
  - Pejoan Sumalla Francisco Sebastian Pedro
  - Pejoan Sumalla Maria Sebastiana Teresa
@@ -1808,7 +1902,7 @@
  - Perera Baró
  - Perera Bellmunt
  - Perera Bernat
- - Perera Bosch
+ - Perera Bosch Rosa Maria Agustina
  - Perera Cabre
  - Perera Carne
  - Perera Clota
@@ -1854,6 +1948,7 @@
  - Perera Viladrosa
  - Perera Viladura
  - Pernau Berengue
+ - Pernau Boldu
  - Pernau Dalmau
  - Pernau Naves
  - Pernau Prats
@@ -1874,6 +1969,7 @@
  - Pifarre Pifarre
  - Pifarre Sans
  - Pifarre Tella
+ - Piferre Cullere
  - Piferre Minguell
  - Pique Sans
  - Pla Baro
@@ -1935,6 +2031,7 @@
  - Pujol Fallada
  - Pujol Moya
  - Pujol Perello
+ - Pujol Sans
  - Pujol Taulo
  - Pujol teule
  - Pujol Timoneda
@@ -1965,7 +2062,12 @@
  - Queralt Mar
  - Queralt Masdoret
  - Queralt Masgoret
- - queralt moya
+ - Queralt Mesalles
+ - Queralt Mo?
+ - Queralt Moya Jaime Isidro Jose
+ - Queralt Moya Josefa Maria Francisca
+ - Queralt Moya Ramon Lorenzo Francisco
+ - Queralt Moya Teresa Manuela Francisca
  - Queralt Naves
  - Queralt Navés
  - Queralt Pau
@@ -2005,6 +2107,7 @@
  - Quintana Arbones
  - Quintana Arbonés
  - Quintana Argiles
+ - Quintana Boldu
  - Quintana Bove
  - Quintana Bové
  - Quintana Camins
@@ -2030,7 +2133,10 @@
  - Quintana Vidal
  - Quintana Vila
  - Rabell Boladeres
+ - Rabull Boladeras
+ - Racasens Llanes
  - Rapre Pages
+ - Recasens Escoles
  - Recasens Farregut
  - Recasens Gispert
  - Recasens Naves
@@ -2044,6 +2150,7 @@
  - Reine Castella
  - Relbileriu ?? Estevan
  - Renñe Sans
+ - Renye Vidal
  - Reñe Boladeres
  - Reñe Capdevila
  - Reñe creus?
@@ -2078,7 +2185,17 @@
  - Ribera Cervera
  - Ribera Ceto
  - Ribera Cetó
- - Ribera Cortes
+ - Ribera Cortes Antonio Jose Juan
+ - Ribera Cortes Geronima Josefa
+ - Ribera Cortes Josep Francisco Ambrosio
+ - Ribera Cortes Miquel Antonio Fransisco
+ - Ribera Cortes Ramon Ambrosio
+ - Ribera Cortes Ramon Francisco
+ - Ribera Cortes Rosa Maria Fransisca
+ - Ribera Cortes Teresa Antonia Josefa
+ - Ribera Cortes Teresa Francisca
+ - Ribera Cortes Teresa Francisca Maria
+ - Ribera Cortes Tomas Alberto Francisco
  - Ribera Elias Concepcion jacoba
  - Ribera Elias Jose Ramon Luis
  - Ribera Elias Maria Antonia Tecla
@@ -2100,7 +2217,18 @@
  - Ribera Martin
  - Ribera Martinez
  - Ribera Mata
- - Ribera Menos
+ - Ribera Menos Anton Fransisco Agusti
+ - Ribera Menos Esteve Francisco Rampn
+ - Ribera Menos Fransisco Anton Agusti
+ - Ribera Menos Josep Fransisco Pau
+ - Ribera Menos Magdalena Raimunda Agustina
+ - Ribera Menos Maria Paula Josepa
+ - Ribera Menos Maria Teresa Rosa
+ - Ribera Menos Miquel Pau Agusti
+ - Ribera Menos Pau Francisco Agusti
+ - Ribera Menos Ramon Pau Agusti
+ - Ribera Menos Rosa Maria Josepa
+ - Ribera Merola
  - Ribera Minguet
  - ribera mino
  - Ribera Miret
@@ -2216,6 +2344,7 @@
  - roset Clave
  - Roset cols
  - Roset Cots
+ - Roset Cullere
  - Roset Duch
  - Roset Elias
  - Roset Elias ?
@@ -2252,6 +2381,7 @@
  - Royo  Masalles
  - Rubi  Bosch
  - Rubi Bosch
+ - Rubi Farre
  - Rubi Gine
  - Rubi Martinez
  - Rubí Martinez
@@ -2262,6 +2392,7 @@
  - Rubinat Soldevila
  - Rubio  Novell
  - Rubio Carne
+ - Rubio Genís
  - Rubio Novell
  - Rubio Pau
  - Rubio Sans
@@ -2398,17 +2529,38 @@
  - Sans Cornet
  - Sans Costafreda
  - Sans Costapeda?
+ - Sans Cots
  - Sans cullere
  - Sans Daidi
  - Sans Daydi
  - Sans de riu
  - Sans Dedi
  - Sans Deidi
- - Sans Duch
+ - Sans Duch Anton Batiste Agusti
  - Sans Duch Antonio Francisco Jose
+ - Sans Duch Antonio Jose Francisco
  - Sans Duch Carmen Paula Antonia
  - Sans Duch Faustino Francisco Jose
  - Sans Duch Francisco Manuel Jose
+ - Sans Duch Jaume Anton Agusti
+ - Sans Duch Jaume Joan Josep
+ - Sans Duch Josep Anton Agusti
+ - Sans Duch Josep Bonaventura Domingo
+ - Sans Duch Lucia Josapa Cecilia
+ - Sans Duch Maria Antonia Josepa
+ - Sans Duch Maria Antonia Rosa
+ - Sans Duch Maria Dominga
+ - Sans Duch Maria Merce Paula
+ - Sans Duch Pablo Francisco
+ - Sans Duch Paula Teresa Cecilia
+ - Sans Duch Raimunda Brigida Josepa
+ - Sans Duch Raimunda Tresina Francisca
+ - Sans Duch Ramon Anton Agusti
+ - Sans Duch Ramon Jose Francisco
+ - Sans Duch Ramon Juan Francisco
+ - Sans Duch Rosa Francisca
+ - Sans Duch Rosa Paula Agustina
+ - Sans Duch Salvador Josep Agusti
  - Sans Escale
  - Sans Escalé
  - Sans Esque
@@ -2418,6 +2570,7 @@
  - Sans Farreny
  - Sans Felip
  - Sans Ferrer
+ - Sans Florejachs
  - Sans Florejades
  - Sans Floreyachs?
  - Sans Gabernet
@@ -2607,6 +2760,7 @@
  - Sanso Puigdengoles
  - Sansoo Putgdengoles
  - SansVilaro
+ - Santfeliu Arbera
  - Santfeliu Barbens
  - SantFeliu Quintana
  - Santfeliu Sans
@@ -2630,6 +2784,7 @@
  - Saureu Naves
  - saureu sans
  - Segarra Blai
+ - Segarra Blasi
  - Segarra de Riu
  - Segarra Esque
  - Segarra Esqué
@@ -2642,15 +2797,18 @@
  - Segarra Sans
  - Segarra Sole
  - Segarra Vila
+ - Segues Balcells
  - Segues Esque
  - Segues Gras
  - Segues Sans
+ - Segura Cots
  - Segura Moya
  - Segura Pernau
  - Segura Sole
  - Selma Capdevila
  - Selma Cots
  - Selma Domingo
+ - Selma Miret
  - Selma Pujol
  - Selma Pujol Antonio Jaime
  - Selma Pujol Dolores Teresa
@@ -2670,6 +2828,7 @@
  - Serra Merola
  - Serra Nadal
  - Serra Naves
+ - Serra Puig
  - serra Ribera
  - Serra Roset
  - Serra Sans
@@ -2716,6 +2875,7 @@
  - Sole Pont
  - Sole Pou
  - Sole Ribes
+ - Sole Teixiner
  - Sole Vidal
  - Soler Gasull
  - Soler Vidal
@@ -2857,6 +3017,7 @@
  - Teixido Recasens
  - Teixido Ribera
  - Teixido Rotg
+ - Teixido Sanfeliu
  - Teixido Soldevila
  - teixido tillo
  - Texido Bellmunt
@@ -2873,7 +3034,13 @@
  - Texido Tillo
  - Tillo  Bellmunt
  - Tillo Aritseta
- - Tillo Bellmunt
+ - Tillo Bellmunt  Teresa Francisca
+ - Tillo Bellmunt Antonio Pablo Francisco
+ - Tillo Bellmunt Buenaventura Antonio Ambrosio
+ - Tillo Bellmunt Jose Antonio Francisco
+ - Tillo Bellmunt Manuela Maria Francisca
+ - Tillo Bellmunt Ramon Pablo Francisco
+ - Tillo Bellmunt Rosa Francisca Tecla
  - Tillo Boyrach
  - Tillo Cabau
  - Tillo Drudes
@@ -2912,7 +3079,8 @@
  - Timoneda Cantons Sense Nom
  - Timoneda Fallada
  - Timoneda Pau
- - Timoneda Perera
+ - Timoneda Peí
+ - Timoneda Perera Antonia Maria Rosa
  - Timoneda Perera Francisca Teresa Maria
  - Timoneda Perera Francisco Jose Juan
  - Timoneda Perera Raimunda Josefa Francisca
@@ -2922,6 +3090,7 @@
  - Timoneda Sans Jose Pablo Francisco
  - Timoneda Tillo
  - Tiudela Calvis
+ - Ton Sanfeliu
  - Ton Vilaplana
  - Tor Pique
  - Tor Vilaplana
@@ -2994,6 +3163,7 @@
  - Vidal Francesch
  - vidal gil
  - Vidal Homs
+ - Vidal Ingles
  - Vidal Majoral
  - Vidal Margalef
  - Vidal Masalles
@@ -3074,6 +3244,7 @@
  - Vilaplana Esque
  - Vilaplana Moya
  - Vilaplana Quintana
+ - Vilaplana Serret
  - Vilaro Risa
  - Vilaro Vila
  - Villar Sumalla Manuel Jose Jaime
