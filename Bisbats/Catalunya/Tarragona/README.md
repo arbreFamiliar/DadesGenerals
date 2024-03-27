@@ -11,9 +11,9 @@ He anat afegint tots els cognoms per facilitar la recerca dels familiars. En alg
 L'excel s'estructura de la següent manera:
 
 
-| Cognoms  | Pagina real | Pagina llibre | Llibre | Any | Pare | Mare | Avis Paterns | Avis Materns | Casat | Nascut | 
-| -------- | ----------- | ------------- | ------ | --- | ---- | ---- | ------------ | ------------ | ----- | ------ |
-|          |             |               |        |     |      |      |              |              |       |        | 
+| Cognoms  | Pagina real | Pagina llibre | Llibre | Any | Pare | Mare | Avis Paterns | Avis Materns | Casat | Nascut | Padri de bateig | Padrineta de bateig | Bateig | Ofici |
+| -------- | ----------- | ------------- | ------ | --- | ---- | ---- | ------------ | ------------ | ----- | ------ | --------------- | ------------------- | ------ | ----- |
+|          |             |               |        |     |      |      |              |              |       |        |                 |                     |        |       | 
 
 - **Cognoms**: Es la persona tingui nom o nomes els seus cognoms
 - **Pagina real**: es la pagina digital del llibre.
@@ -29,6 +29,10 @@ L'excel s'estructura de la següent manera:
 - **Avis Materns**: Avis materns, no sempre proporcionen els dos cognoms dels dos, pero he intentat posarlos.
 - **Casat**: Si te nota de casament poso tots els detalls llegibles, quan hi ha mes d'un matrimoni els separo amb 1er-, 2on, etc
 - **Nascut**: Data de naixament.
+- **Padri de bateig**: Nom, cognom, ofici i localitat si no es de la mateixa del batejat
+- **Padrineta de bateig**: Nom, Cognoms i localitat si no es de la mateixa que el batejat
+- **Bateig**: Data del Bateig
+- **Ofici**: Ofici del pare del Batejat
 
 Hi ha ocasions en que el cognom o nom d'algun dels membres no es entendible, he mirat d'exeplificarlo amb ?, tambe cuan em sembla que entenc alguna cosa que no estic segur que posi allo realment.
 
@@ -53,4 +57,4 @@ Llibres revisats fins ara:
   - [07/07/1893 26/02/1907](https://arxiuenlinia.ahat.cat/Document/0000019889) 609 Pàgines
   - [10/03/1907 29/12/1912](https://arxiuenlinia.ahat.cat/Document/0000019883) 262 Pàgines
   - [06/01/1913 05/08/1923](https://arxiuenlinia.ahat.cat/Document/0000019881) 516 Pàgines
-  - [12/08/1923 23/12/1935](https://arxiuenlinia.ahat.cat/Document/0000019877) 645 Pàgines unicament visible per ara fins la 33 
+  - [12/08/1923 23/12/1935](https://arxiuenlinia.ahat.cat/Document/0000019877) 645 Pàgines unicament visible per ara fins la 104 
