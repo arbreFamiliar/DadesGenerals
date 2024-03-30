@@ -46,7 +46,8 @@ Per accedir directament als registres i mentres no cambio la URL pots fer-ho des
 
 Llibres revisats fins ara:
 - Arbeca Baptismes
-  - [06/01/1783 24/12/1801](https://arxiuenlinia.ahat.cat/Document/0000019861) 469 Pàgines **Investigant Actualment**
+  - [03/01/1766 22/12/1782](https://arxiuenlinia.ahat.cat/Document/0000019859) 293 Pàgines **Investigant Actualment**
+  - [06/01/1783 24/12/1801](https://arxiuenlinia.ahat.cat/Document/0000019861) 469 Pàgines
   - [03/01/1802 25/12/1831](https://arxiuenlinia.ahat.cat/Document/0000019860) 726 Pàgines
   - [01/01/1832 31/10/1851](https://arxiuenlinia.ahat.cat/Document/0000019862) 398 Pàgines
   - [01/11/1851 25/12/1854](https://arxiuenlinia.ahat.cat/Document/0000019912) 310 Pàgines
