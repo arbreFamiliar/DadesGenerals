@@ -11,3 +11,15 @@ Pagina de moviments migratoris Iberoamericans: http://pares.mcu.es/MovimientosMi
 Emigració des d'espanya https://www.loc.gov/research-centers/main/about-this-research-center/
 
 Arxiu Comarcal de la Noguera https://xac.gencat.cat/ca/llista_arxius_comarcals/noguera/
+
+[Registres de població Palma de Mallorca](https://pmi.palmademallorca.es/arxiu/registres_poblacio/)
+
+[Solicitar certificats de naixament](https://sede.mjusticia.gob.es/sereci/initDatosGenerales?idMateria=NAC&idtramite=102&lang=es_es&idpagina=1215197884559)
+
+[Actes de la Comissió Mixta de Reclutament Lleida](https://www.diputaciolleida.cat/la-diputacio-2/qui-som-i-que-fem/serveis-i-departaments/serveis-al-mon-local/231-municipis/cataleg-de-serveis-de-la-diputacio-de-lleida/serveis-diputacio-de-lleida/arxiu/consultes-en-linia/actes-de-la-comissio-mixta-de-reclutament/)
+
+[Censos electorals Lleida](https://www.diputaciolleida.cat/la-diputacio-2/qui-som-i-que-fem/serveis-i-departaments/serveis-al-mon-local/231-municipis/cataleg-de-serveis-de-la-diputacio-de-lleida/serveis-diputacio-de-lleida/arxiu/consultes-en-linia/censos-electorals/)
+
+[Guerres Carlistes Lleida](https://www.diputaciolleida.cat/la-diputacio-2/qui-som-i-que-fem/serveis-i-departaments/serveis-al-mon-local/231-municipis/cataleg-de-serveis-de-la-diputacio-de-lleida/serveis-diputacio-de-lleida/arxiu/consultes-en-linia/guerres-carlines/)
+
+[Actes del Ple i Comisio de Govern Lleida](https://www.diputaciolleida.cat/la-diputacio-2/qui-som-i-que-fem/serveis-i-departaments/serveis-al-mon-local/231-municipis/cataleg-de-serveis-de-la-diputacio-de-lleida/serveis-diputacio-de-lleida/arxiu/consultes-en-linia/actes-del-ple/)
