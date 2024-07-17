@@ -4,8 +4,12 @@ M'està costant molt poder desxifrar alguna cal·ligrafia i algunes abreviacions
 
 
 
-| IMG  | Que entenc | LLibre |
-| ------------- | ------------- | ------------- |
-| ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/1.PNG) ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/2.PNG)  | Roiana  | [21.10.1600 - 10.01.1663](https://arxiuenlinia.ahat.cat/Document/0000013893#imatge-3) |
-|  ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/3.PNG) | ¿?  | [21.10.1600 - 10.01.1663](https://arxiuenlinia.ahat.cat/Document/0000013893#imatge-3) |
+| IMG  | Que entenc | LLibre | Excel |
+| ------------- | ------------- | ------------- | ------------- |
+| ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/1.PNG) ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/2.PNG)  | Roiana  | [21.10.1600 - 10.01.1663](https://arxiuenlinia.ahat.cat/Document/0000013893#imatge-3) | 17434 |
+|  ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/3.PNG) | ¿?  | [21.10.1600 - 10.01.1663](https://arxiuenlinia.ahat.cat/Document/0000013893#imatge-3) | 17436 |
+|  ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/4.PNG) | Bhelifea  | [21.10.1600 - 10.01.1663](https://arxiuenlinia.ahat.cat/Document/0000013893#imatge-4) | 17438 |
+|  ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/5.PNG) | Nicolaua  | [21.10.1600 - 10.01.1663](https://arxiuenlinia.ahat.cat/Document/0000013893#imatge-9) | 17467 |
+|  ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/6.PNG) ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/7.PNG) | Sierra  | [21.10.1600 - 10.01.1663](https://arxiuenlinia.ahat.cat/Document/0000013893#imatge-9) | 17468 |
+|  ![](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Lectura/imatges/Arbeca/Baptismes/21.10.1600-10.01.1663/8.PNG) | Gomosa  | [21.10.1600 - 10.01.1663](https://arxiuenlinia.ahat.cat/Document/0000013893#imatge-9) | 17487 |
 |   |   |  |
