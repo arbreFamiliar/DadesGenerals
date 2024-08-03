@@ -10,7 +10,7 @@ Catalunya es distribueix entre 10 bisbats, en funció del bisbat al que pertany 
  - [Lleida](http://www.bisbatlleida.org/)
  - [Tortosa](https://www.bisbattortosa.org/)
  - [Solsona](https://bisbatsolsona.cat/)
- - [Tarragona](https://arxiuenlinia.ahat.cat/FonsDocumentals)
+ - [Tarragona](https://github.com/arbreFamiliar/DadesGenerals/tree/master/Bisbats/Catalunya/Tarragona)
  - [Vic](https://www.abev.net/arxiu.html)
  - [Girona](https://www.arxiuadg.org/index.php/arxius/parroquies.html)
  - [Terrassa](https://www.bisbatdeterrassa.org/)
