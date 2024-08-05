@@ -1,6 +1,6 @@
 # Com he organitzat l'informació
 
-He anat afegint tots els cognoms per facilitar la recerca dels familiars. En alguns casos, incloc el nom complet i més informació, això és perquè han despertat el meu interès o el d'algún col·laborador en la recerca de l'arbre genealògic. També he destacat en color verd els familiars confirmats per afegir-los al meu arbre.
+He anat afegint tots els cognoms per facilitar la recerca dels familiars. En alguns casos, incloc el nom complet i més informació, això és perquè han despertat el meu interès o el d'algún col·laborador en la recerca de l'arbre genealògic. També he destacat en color verd els familiars consanguinis confirmats al meu arbre, i en granat els familiars no consanguinis.
 
 L'excel s'estructura de la següent manera:
 
@@ -28,7 +28,7 @@ L'excel s'estructura de la següent manera:
 - **Bateig**: Data del Bateig
 - **Ofici**: Ofici del pare del Batejat
 
-Hi ha ocasions en que el cognom o nom d'algun dels membres no es entendible, he mirat d'exeplificarlo amb ?, tambe cuan em sembla que entenc alguna cosa que no estic segur que posi allo realment.
+Hi ha ocasions en que el cognom o nom d'algun dels membres no es entendible, he mirat d'especificarlo amb ?, tambe cuan em sembla que entenc alguna cosa que no estic segur que posi allo realment.
 
 També Hi ha entrades que posa Incognito, sembla ser que eren orfes.
 
