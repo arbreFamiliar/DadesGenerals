@@ -12,6 +12,11 @@ He decidit crear un fitxer per localitat per que siguin menys pesats. i per ara 
 
 Per accedir directament als registres i mentres no cambio la URL pots fer-ho des d'aquest [link](https://arxiuenlinia.ahat.cat/FonsDocumentals)
 
+També et permet realitzar cerques sobre el contingut
+ - [Consultes per conceptes](https://arxiuenlinia.ahat.cat/CercadorDocuments)
+ - [Consulta per tipologia documental](https://arxiuenlinia.ahat.cat/CercadorDocuments)
+ - [Cerca per indexació](https://arxiuenlinia.ahat.cat/CercadorIndex)
+
 - [Arxiu Capitular de la Catedral de Tarragona](https://www.acct.cat/es/)
 
 # Pobles investigats
