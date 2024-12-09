@@ -1,0 +1,15 @@
+## Arxius comarcals
+[Solsonès ](https://xac.gencat.cat/ca/llista_arxius_comarcals/solsones/)
+[Cerdanya ](https://xac.gencat.cat/ca/llista_arxius_comarcals/cerdanya/)
+[Alt Urgell ](https://xac.gencat.cat/ca/llista_arxius_comarcals/alt_urgell/)
+[Pallars Sobirà ](https://xac.gencat.cat/ca/llista_arxius_comarcals/pallars_sobira/)
+[Val D'aran ](https://xac.gencat.cat/ca/llista_arxius_comarcals/val_d_aran/)
+[Alta Ribagorça ](https://xac.gencat.cat/ca/llista_arxius_comarcals/alta_ribagorca/)
+[Pallars Jussà ](https://xac.gencat.cat/ca/llista_arxius_comarcals/pallars_jussa/)
+[Berguedà ](https://xac.gencat.cat/ca/llista_arxius_comarcals/bergueda/) Nomès una petita part pertany a Lleida
+[Noguera ](https://xac.gencat.cat/ca/llista_arxius_comarcals/noguera/)
+[Segarra ](https://xac.gencat.cat/ca/llista_arxius_comarcals/segarra/)
+[Urgell ](https://xac.gencat.cat/ca/llista_arxius_comarcals/urgell/)
+[Pla d'Urgell ](https://xac.gencat.cat/ca/llista_arxius_comarcals/pla_d_urgell/)
+[Segrià ](https://xac.gencat.cat/ca/llista_arxius_comarcals/segria/)
+[Garrigues ](https://xac.gencat.cat/ca/llista_arxius_comarcals/garrigues/)
