@@ -10,3 +10,6 @@
 * [Osona](https://xac.gencat.cat/ca/llista_arxius_comarcals/osona/)
 * Barcelonés
 * Moianes
+
+# Solicitar informació d'adopcions
+* [Casa de la maternitat](https://www.diba.cat/web/benestar/soc-una-persona-adoptada-i-cerco-els-meus-origens-biologics-casa-de-la-maternitat-)
