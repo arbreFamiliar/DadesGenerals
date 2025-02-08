@@ -1,5 +1,6 @@
 # Com he organitzat l'informació
 
+No S'han comensat a indexar aquets llibres
 
 ## Llibres revisats fins ara:
 
