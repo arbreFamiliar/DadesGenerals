@@ -25,4 +25,4 @@ L'excel s'estructura de la següent manera:
   - [02/01/1867 30/12/1882](https://arxiuenlinia.ahat.cat/Document/0000019905) 502 Pàgines **Investigant Actualment**
   - [03/01/1883 17/12/1895](https://arxiuenlinia.ahat.cat/Document/0000019914) 396 Pàgines
   - [07/01/1896 18/10/1913](https://arxiuenlinia.ahat.cat/Document/0000019916) 395 Pàgines
-  - [13/11/1913 30/12/1944](https://arxiuenlinia.ahat.cat/Document/0000019915) 615 Pàgines (Només disponible fins la pàgina 267)
+  - [13/11/1913 30/12/1944](https://arxiuenlinia.ahat.cat/Document/0000019915) 615 Pàgines (Només disponible fins la pàgina 297)
