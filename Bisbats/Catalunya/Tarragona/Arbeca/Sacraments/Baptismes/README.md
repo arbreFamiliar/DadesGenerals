@@ -32,7 +32,7 @@ Hi ha ocasions en que el cognom o nom d'algun dels membres no es entendible, he 
 
 També Hi ha entrades que posa Incognito, sembla ser que eren orfes.
 
-## [Excel amb totes les dades](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/Arbeca/Sagraments/Baptismes/Excel/Index_llibres_Digitals.xlsx)
+## [Excel amb totes les dades](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/Arbeca/Sacraments/Baptismes/Excel/Index_llibres_Digitals.xlsx)
 
 ## Llibres revisats fins ara:
 

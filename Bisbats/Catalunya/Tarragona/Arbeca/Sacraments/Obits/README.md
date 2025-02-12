@@ -9,7 +9,7 @@ L'excel s'estructura de la següent manera:
 |          |             |      |        |     |      |         |       |         |       |                |       |
 
 
-## [Excel amb totes les dades](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/Arbeca/Sagraments/Obits/Excel/Index_llibres_Digitals-Obits.xlsx)
+## [Excel amb totes les dades](https://github.com/arbreFamiliar/DadesGenerals/blob/master/Bisbats/Catalunya/Tarragona/Arbeca/Sacraments/Obits/Excel/Index_llibres_Digitals-Obits.xlsx)
 
 
 ## Llibres revisats fins ara:
