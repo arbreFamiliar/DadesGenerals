@@ -20,9 +20,9 @@ L'excel s'estructura de la següent manera:
   - [03/09/1771 31/12/1805](https://arxiuenlinia.ahat.cat/Document/0000019919) 395 Pàgines
   - [12/01/1806 26/12/1832](https://arxiuenlinia.ahat.cat/Document/0000019907) 446 Pàgines
   - [02/01/1833 28/10/1851](https://arxiuenlinia.ahat.cat/Document/0000019908) 265 Pàgines
-  - [03/11/1851 31/12/1858](https://arxiuenlinia.ahat.cat/Document/0000019909) 335 Pàgines
-  - [04/01/1859 24/12/1866](https://arxiuenlinia.ahat.cat/Document/0000019904) 260 Pàgines **Investigant Actualment**
-  - [02/01/1867 30/12/1882](https://arxiuenlinia.ahat.cat/Document/0000019905) 502 Pàgines 
+  - [03/11/1851 31/12/1858](https://arxiuenlinia.ahat.cat/Document/0000019909) 335 Pàgines **Investigant Actualment**
+  - [04/01/1859 24/12/1866](https://arxiuenlinia.ahat.cat/Document/0000019904) 260 Pàgines
+  - [02/01/1867 30/12/1882](https://arxiuenlinia.ahat.cat/Document/0000019905) 502 Pàgines
   - [03/01/1883 17/12/1895](https://arxiuenlinia.ahat.cat/Document/0000019914) 396 Pàgines
   - [07/01/1896 18/10/1913](https://arxiuenlinia.ahat.cat/Document/0000019916) 395 Pàgines
   - [13/11/1913 30/12/1944](https://arxiuenlinia.ahat.cat/Document/0000019915) 615 Pàgines (Només disponible fins la pàgina 297)
