@@ -38,8 +38,8 @@ També Hi ha entrades que posa Incognito, sembla ser que eren orfes.
 
 - Arbeca Baptismes
   - [08/08/1493 17/12/1565](https://arxiuenlinia.ahat.cat/Document/0000016789) 77 Pàgines
-  - [17/09/1522 29/11/1616](https://arxiuenlinia.ahat.cat/Document/0000016790) 509 Pàgines
-  - [21/10/1600 10/01/1663](https://arxiuenlinia.ahat.cat/Document/0000013893) 512 Pàgines **Investigant Actualment**
+  - [17/09/1522 29/11/1616](https://arxiuenlinia.ahat.cat/Document/0000016790) 509 Pàgines **Investigant Actualment**
+  - [21/10/1600 10/01/1663](https://arxiuenlinia.ahat.cat/Document/0000013893) 512 Pàgines - Conté també Confirmacions des de la pàgina 500 fins al final
   - [10/01/1663 23/12/1699](https://arxiuenlinia.ahat.cat/Document/0000013892) 336 Pàgines - Conté també defuncions des de la pàgina 242 fins a la 253 i confirmacions fins al final.
   - [12/01/1700 27/12/1765](https://arxiuenlinia.ahat.cat/Document/0000019863) 538 Pàgines
   - [03/01/1766 22/12/1782](https://arxiuenlinia.ahat.cat/Document/0000019859) 293 Pàgines
