@@ -27,3 +27,5 @@ Arxiu Comarcal de la Noguera https://xac.gencat.cat/ca/llista_arxius_comarcals/n
 [Arxius Comarcals](https://xac.gencat.cat/ca/llista_arxius_comarcals/)
 [Index Testaments dels segles XV a XVIII Alt penedés](https://xac.gencat.cat/ca/llista_arxius_comarcals/alt_penedes/consulta-indexs/testaments/)
 [Index Capítols Matrimonials dels segles XV a XVIII Alt penedés](https://xac.gencat.cat/ca/llista_arxius_comarcals/alt_penedes/consulta-indexs/capitols-matrimonials/)
+
+[Index Llibres Aragó](https://archivodiocesisbarbastromonzon.org/registros-parroquiales)
