@@ -18,8 +18,8 @@ L'excel s'estructura de la següent manera:
   - [Llibre de baptismes des de Pàg 242 a 253 compren òbits des de 1694 fins 1699](https://arxiuenlinia.ahat.cat/Document/0000013892#imatge-242) **Ja estan afegits al excel a la pestanya "defuncions Llibre Incorrecte"**
   - [15/01/1700 02.09/1771](https://arxiuenlinia.ahat.cat/Document/0000019917) 338 Pàgines
   - [03/09/1771 31/12/1805](https://arxiuenlinia.ahat.cat/Document/0000019919) 395 Pàgines
-  - [12/01/1806 26/12/1832](https://arxiuenlinia.ahat.cat/Document/0000019907) 446 Pàgines
-  - [02/01/1833 28/10/1851](https://arxiuenlinia.ahat.cat/Document/0000019908) 265 Pàgines **Investigant Actualment**
+  - [12/01/1806 26/12/1832](https://arxiuenlinia.ahat.cat/Document/0000019907) 446 Pàgines **Investigant Actualment**
+  - [02/01/1833 28/10/1851](https://arxiuenlinia.ahat.cat/Document/0000019908) 265 Pàgines
   - [03/11/1851 31/12/1858](https://arxiuenlinia.ahat.cat/Document/0000019909) 335 Pàgines
   - [04/01/1859 24/12/1866](https://arxiuenlinia.ahat.cat/Document/0000019904) 260 Pàgines
   - [02/01/1867 30/12/1882](https://arxiuenlinia.ahat.cat/Document/0000019905) 502 Pàgines
