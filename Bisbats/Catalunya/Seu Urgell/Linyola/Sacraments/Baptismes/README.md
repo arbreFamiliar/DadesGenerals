@@ -1,6 +1,6 @@
 # Com he organitzat l'informació
 
-Recentment he obtingut accés a uns llibres fotografiats per la Societat de Genealogia de Utah. De moment disposo de dos fitxers Excel: un amb l’índex que vaig crear a partir de la informació obtinguda dels arxius adquirits a la seu, on les entrades marcades en color lila indiquen que part de la informació es troba en una imatge de la qual no disposava. 
+Recentment, he obtingut accés a uns llibres fotografiats per la Societat de Genealogia de Utah. De moment disposo de dos fitxers Excel: un amb l’índex que vaig crear a partir de la informació obtinguda dels arxius adquirits a la seu, on les entrades marcades en color lila indiquen que part de la informació es troba en una imatge de la qual no disposava. 
 
 Ara, he elaborat un nou Excel amb l’índex de tots els llibres compresos entre els anys 1693 i 1865. En aquest només hi figuren els cognoms de cada batejat, i progressivament n’aniré extraient les combinacions que m’interessin. Aquest repositori és obert perquè qualsevol persona hi pugui col·laborar.
 
@@ -9,3 +9,7 @@ A l’Excel de la Seu hi ha registres marcats en vermell; això indica que ja el
 [📥 Descarrega l’Excel d’índex de baptismes (1693–1865)](https://github.com/arbreFamiliar/DadesGenerals/raw/refs/heads/master/Bisbats/Catalunya/Seu%20Urgell/Linyola/Sacraments/Baptismes/Excel/Index_llibres_Baptismes_Mormons.xlsx)
 
 [📘 Descarrega l’Excel d’índex de baptismes (arxius de la Seu)](https://github.com/arbreFamiliar/DadesGenerals/raw/refs/heads/master/Bisbats/Catalunya/Seu%20Urgell/Linyola/Sacraments/Baptismes/Excel/Index_llibres_Baptismes_SEU.xlsx)
+
+Falten els arxius de La seu d'Urgell 1863-1872 que vaig tenir l'oportunitat de poder consultar. També vaig intentar consultar els de Linyola, però no m'han deixat veure'ls. Així doncs, si algú no sap utilitzar git per col·laborar i té algun fotograma que no estigui aquí pot enviar-me'l a arbrefamiliargranfamilia@gmail.com i l'afegiré a la indexació.
+
+Per motius legals no puc compartir els fotogrames per més que m'agradaria.
