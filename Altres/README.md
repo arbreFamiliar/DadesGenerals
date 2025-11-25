@@ -182,6 +182,9 @@
 - [Arxiu General de la Nació – Institut Argentí de Ciències Genealògiques (libres d’inhumacions)](https://archive.org)  
   Llibres d’inhumacions del Cementiri del Nord de Buenos Aires i altres fonts, molt útils per a genealogia argentina.
 
+- [Cercador de vaixells i passatgers que arribaren a l'Argentina](https://cemla.com/buscador/)
+  Base de dades de les migracions argentines
+
 - [Padrones i relació d’estrangers i indis a Buenos Aires](https://www.familysearch.org)  
   Col·leccions FamilySearch sobre padrones i relacions d’estrangers/indis a Buenos Aires.
 
